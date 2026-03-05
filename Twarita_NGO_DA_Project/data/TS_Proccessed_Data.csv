@@ -1,0 +1,760 @@
+Sr No.,Enrollment No,Name of Candidates,Father/Husband Name,Gender,Caste Categary,Aadhaar Card No,Address,Location,District,State,Mobile,Email ID,Date of Birth,Age,Qualification,Course
+1,1,Buddhoni Devanand Padhen      ,Devanand,Female,SC,7063 8611 3127,Kurla Camp Ulhsnagar-,Ulhasnagar,Thane,Maharashtra,8600538016,bhddhoni1@gmail.com,20-03-2000,25,12th,Beauty Parlour
+2,2,Priyanka Dattatray Shinagare,Dattatray,Female,SC,4971 2465 7095,"Mahatma Phule Nagar, Prem Nagar Tekdi Ulhasnagar-5",Ulhasnagar,Thane,Maharashtra,7499291183,priyanka2@gmail.com,31-03-2005,20,Graduate,Beauty Parlour
+3,3,Amrapali Khandu Shindare,Khandu,Female,SC,9417 6316 3960,"Mahatma Phule Nagar, Prem Nagar Tekdi Ulhasnagar-5",Ulhasnagar,Thane,Maharashtra,9309504792,amrapali3@gmail.com,30-09-2006,19,12th,Beauty Parlour
+4,4,Achal Anna Shingare ,Anna,Female,SC,7671 0739 0269,"Mahatma Phule Nagar, Prem Nagar Tekdi Ulhasnagar-5",Ulhasnagar,Thane,Maharashtra,9699742962,achal5@gmail.com,07-11-2003,22,10th,Beauty Parlour
+5,5,Neha Datta Lokhande,Datta,Female,SC,9616 6471 7980,"Mahatma Phule Nagar, Prem Nagar Tekdi Ulhasnagar-5",Ulhasnagar,Thane,Maharashtra,8799859415,neha11@gmail.com,26-04-2005,20,10th,Beauty Parlour
+6,6,Mayuri Dayanand Dolase,Dayanand,Female,SC,4811 6520 7523,Kurla Camp Ulhsnagar-,Ulhasnagar,Thane,Maharashtra,8779567302,mayuri14@gmail.com,25-11-2005,20,10th,Beauty Parlour
+7,7,Varsha Siddharth Patole,Sidharth,Female,SC,7925 1352 0195,Kurla Camp Ulhsnagar-,Ulhasnagar,Thane,Maharashtra,9503074882,varsha18@gmail.com,26-01-1984,40,10th,Beauty Parlour
+8,8,Swati Latish Urkade,Latish,Female,SC,3417 9029 1746,Kurla Camp Ulhsnagar-,Ulhasnagar,Thane,Maharashtra,7218334467,swati19@gmail.com,04-09-1991,34,10th,Beauty Parlour
+9,9,Rohini Rajesh Waghmare,Rajesh,Female,SC,7368 7351 6126,"Mahatma Phule Nagar, Prem Nagar Tekdi Ulhasnagar-5",Ulhasnagar,Thane,Maharashtra,9356675997,rohini13@gmail.com,27-03-1997,28,10th,Beauty Parlour
+10,10,Rakshanda Aatish Shingare,Aatish,Female,SC,4597 5537 8318,"Mahatma Phule Nagar, Prem Nagar Tekdi Ulhasnagar-5",Ulhasnagar,Thane,Maharashtra,8208570595,rakshashingare@gamil.com,16-06-1996,29,10th,Beauty Parlour
+11,11,Surekha Deepak Kharat,Deepak,Female,SC,9712 5984 4490,"Patel Nagar, Ulhasnagar-5",Ulhasnagar,Thane,Maharashtra,9975750721,surekha khrat@gmial.com,01-11-1984,40,10th,Beauty Parlour
+12,12,Komal Sameer Shinde,Sameer,Female,SC,6850 1808 3619,Subhash Teksdi Ulhasnagar 4,Ulhasnagar,Thane,Maharashtra,9422329885,komalsameer12@gmail.com,19-09-2000,25,10th,Beauty Parlour
+13,13,Sheela Nilesh Jadhav,Nilesh,Female,SC,7166 8034 9937,Kurla Camp Ulhsnagar-,Ulhasnagar,Thane,Maharashtra,96738 88863,sheela25@gmail.com,01-10-1989,36,10th,Beauty Parlour
+14,14,Priya Rahul Jadhav,Rahul,Female,SC,5454 2129 6468,Ulhasnagar ,Ulhasnagar,Thane,Maharashtra,8623847433,priya21@gmail.com,27-08-1990,35,12th,Beauty Parlour
+15,15,Vaishali Vasant Shingare,Vasant,Female,SC,9278 1645 8893,"Mahatma Phule Nagar, Prem Nagar Tekdi Ulhasnagar-5",Ulhasnagar,Thane,Maharashtra,9922338316,vaishalishingare9@gmail.com,16-04-2003,22,10th,Beauty Parlour
+16,16,Shraddha Ratan Landge,Ratan,Female,SC,2006 4615 0276,"Mahatma Phule Nagar, Prem Nagar Tekdi Ulhasnagar-5",Ulhasnagar,Thane,Maharashtra,98196 98857,shraddhalandge57@gmail.com,03-12-2006,19,12th,Beauty Parlour
+17,17,Shubhangi Vishal Salve,Vishal ,Female,SC,4464 4142 2115,"Mahatma Phule Nagar, Prem Nagar Tekdi Ulhasnagar-5",Ulhasnagar,Thane,Maharashtra,93255 36841,shubhangisalve742@gmail.com,02-04-1983,42,8th,Beauty Parlour
+18,18,Nisha Madhav Kamble,Madhav,Female,SC,7310 4277 6696,Kurla Camp Ulhsnagar-,Ulhasnagar,Thane,Maharashtra,87664 46469,nishakamble12@gmail.com,30-08-2005,20,10th,Beauty Parlour
+19,19,Swati Babasaheb Shingare,Babasaheb,Female,SC,6687 7955 3105,"Mahatma Phule Nagar, Prem Nagar Tekdi Ulhasnagar-5",Ulhasnagar,Thane,Maharashtra,96991 35622,sshingare570@gmail.com,29-05-2003,22,12th,Beauty Parlour
+20,20,Manisha Chandradeep Taide,Chandradeep,Female,SC,5075 3812 2392,Kansai Road Ulhasnagar,Ulhasnagar,Thane,Maharashtra,7666358209,manisha24@gmail.com,18-05-1990,35,10th,Beauty Parlour
+21,21,Vishaka Suresh Sawant,Suresh,Female,SC,7200 6698 4493,"Mahatma Phule Nagar, Prem Nagar Tekdi Ulhasnagar-5",Ulhasnagar,Thane,Maharashtra,7498486509,vishakha23@gmail.com,16-04-2003,22,10th,Beauty Parlour
+22,22,Archana Praful Chandekar,Praful,Female,SC,5636 2865 8723,"Sambhaji Nagar,Ulhasnagr-4",Ulhasnagar,Thane,Maharashtra,N/A,archana20@gmail.com,13-07-1987,38,12th,Beauty Parlour
+23,23,Nandini Sanjay Kamble,Sanjay,Female,SC,6172 0754 7363,Subhash Teksdi Ulhasnagar 4,Ulhasnagar,Thane,Maharashtra,9011014508,nandinikamble@gmail.com,N/A,21,10th,Beauty Parlour
+24,24,Gauri  Kanahaiya Pujari,Kanahaiya,Female,SC,7254 3982 7993,"Shiv Mandir Road, Ulhasnagar-5",Ulhasnagar,Thane,Maharashtra,9373361797,gauri15@gmail.com,03-09-1995,29,10th,Beauty Parlour
+25,25,Pranjali Suhas Mhaske,Suhas,Female,SC,2707 1268 1113,Subhash Teksdi Ulhasnagar 4,Ulhasnagar,Thane,Maharashtra,N/A,pranjalirani24@gmai.com,24-06-1985,39,12th,Beauty Parlour
+26,26,Sunita Sagar Khandekar,Sagar,Female,SC,5365 0715 6915,Kansai Road Ulhasnagar,Ulhasnagar,Thane,Maharashtra,7709777428,skhandekar246@gmail.com,26-08-1988,36,10th,Beauty Parlour
+27,27,Sapna Ravindra Gawai,Ravindra,Female,SC,7511 3387 0452,Subhash Teksdi Ulhasnagar 4,Ulhasnagar,Thane,Maharashtra,9545019009,sapnagawai@gmail.com,12-01-1999,24,10th,Beauty Parlour
+28,28,Nikita Satish Gawali,Satish,Female,SC,9465 3836 9231,"Mahatma Phule Nagar, Prem Nagar Tekdi Ulhasnagar-5",Ulhasnagar,Thane,Maharashtra,9356061929,nikitagawali1435@gmail.com,01-09-2004,21,10th,Beauty Parlour
+29,29,Vishvawari Anil Sonawane,Anil,Female,SC,2941 6962 0933,"Mahatma Phule Nagar, Prem Nagar Tekdi Ulhasnagar-5",Ulhasnagar,Thane,Maharashtra,9307503407,vishvawari9@gmail.com,26-09-1997,28,12th,Beauty Parlour
+30,30,Shivani Anil Sonavane,Anil,Female,SC,7117 4036 6515,"Mahatma Phule Nagar, Prem Nagar Tekdi Ulhasnagar-5",Ulhasnagar,Thane,Maharashtra,9373272586,shivani4@gmail.com,30-06-2000,25,10th,Beauty Parlour
+31,31,Pradnya Dhram Bansode, Dhram Bansode,Female,SC,9990 1504 1131,"Sambhaji Chowk Lalchakki Road, Ulhasnagar 421004",Ulhasnagar,Thane,Maharashtra,9011728281,pradnya@gmail.com,04-07-1993,32,12th,Immitation Jewellery
+32,32,Kanchan Vishal Birari, Vishal Birari,Female,SC,4155 6110 0863,"Sambhaji Chowk, Hanuman Mandir, Shivsena Office Behind, Ulhasnagar, Thane",Ulhasnagar,Thane,Maharashtra,965742873,kanchan@gmail.com,14-12-1981,44,12th,Immitation Jewellery
+33,33,Diksha Vitthal Shingare, Vitthal Shingare,Female,SC,2283 4170 4527,"Ambedkar Nagar, Gurunaka School Behind , Ulhasnagar-4",Ulhasnagar,Thane,Maharashtra,9322718827,diksha@gmail.com,26-02-2006,19,12th,Immitation Jewellery
+34,34,Karuna Barku Korde, Barku Korde,Female,SC,3575 1713 1217,"Patel Nagar , Raigad Mitra Mandal Ulhasnagar-5",Ulhasnagar,Thane,Maharashtra,7066828712,karuna@gmail.com,24-04-2002,23,12th,Immitation Jewellery
+35,35,Chaya Pravin Nikam, Pravin Nikam,Female,SC,4115 9509 4919,"Sambhaji Chowk Lalchakki Road, Ulhasnagar 421004",Ulhasnagar,Thane,Maharashtra,9975424507,chya@gmail.com,19-06-1990,35,12th,Immitation Jewellery
+36,36,Pradnya Milan Tapasi, Milan Tapasi,Female,SC,2740 8611 3949,"Sambhji Chowk Behind Shivsena Office, Ulhasnagar-4",Ulhasnagar,Thane,Maharashtra,8446335338,pradnya@gmail.com,24-04-2004,21,12th,Immitation Jewellery
+37,37,Nikita Vijay Yayade,Vijay Tayde,Female,SC,8285 0468 1683,"Subhash Tekdi Ambedkar Chowk, Ulhasnagar-4",Ulhasnagar,Thane,Maharashtra,7218953123,nikita@gmail.com,23-12-1993,32,12th,Immitation Jewellery
+38,38,Akshada Ganesh Bhalerao, Ganesh Bhalerao,Female,SC,8735 3734 3951,"Ramdas Bhoir Chawl , Manere Gav , Ulhasnagar-4",Ulhasnagar,Thane,Maharashtra,8329388441,akshada@gmail.com,26-05-2005,20,12th,Immitation Jewellery
+39,39,Shivani Santosh Rajguru, Santosh Rajguru,Female,SC,4499 0503 9940,"Rahul Nagar, Ulhasnagar-4",Ulhasnagar,Thane,Maharashtra,8698898801,shivani@gmail.com,15-07-2005,20,12th,Immitation Jewellery
+40,40,Kalpana Parshuram Shirsat, Parshuram Shirsat,Female,SC,2020 1423 4794,"Lalchakki Road, Datta Mandir , Ulhasnagar-4",Ulhasnagar,Thane,Maharashtra,9146766150,kalpana12@gmail.com,14-01-1997,29,12th,Immitation Jewellery
+41,41,Manisha Sanjay Sable, Sanjay Sable,Female,SC,2030 7115 6223,Saiprasad Colony Ulhasnagar-5,Ulhasnagar,Thane,Maharashtra,7030340868,manisha@gmail.com,18-05-2005,20,12th,Immitation Jewellery
+42,42,Swati Mahindra Patil, Mahindra Patil,Female,SC,3117 0673 1372,Saiprasad Colony Ulhasnagar-5,Ulhasnagar,Thane,Maharashtra,9859625478,swati14@gmail.com,26-03-1986,39,12th,Immitation Jewellery
+43,43,Diksha Vijay Damle, Vijay Damle,Female,SC,5187 4293 8284,"Kansai Road, Behindtakshila School, Ulhasnagar-4",Ulhasnagar,Thane,Maharashtra,8055677902,damle@gmail.com,24-08-1979,46,12th,Immitation Jewellery
+44,44,Maya Vinod Baviskar, Vinod Baviskar,Female,SC,8924 1893 5997,"Subhash Tekdi Ambedkar Chowk, Ulhasnagar-4",Ulhasnagar,Thane,Maharashtra,8237396855,baviskarmaya@gmail.com,01-06-1986,39,12th,Immitation Jewellery
+45,45,Alka Suryakant Gangavane, Suryakant Gangavane,Female,SC,9556 6993 0565,"Subhash Tekdi Ambedkar Chowk, Ulhasnagar-4",Ulhasnagar,Thane,Maharashtra,8983336182,alka@gmail.com,10-06-1971,54,12th,Immitation Jewellery
+46,46,Savita Sanjay Bhatkar, Sanjay Bhatkar,Female,SC,5012 4174 3514,"Subhash Tekdi Ambedkar Chowk, Ulhasnagar-4",Ulhasnagar,Thane,Maharashtra,7385571083,savita78@gmail.com,12-05-1975,50,12th,Immitation Jewellery
+47,47,Pournima Ramkrushna Ahire, Ramkrushna Ahire,Female,SC,5912 6858 0008,"Mahatma Fule Conony Daha Chawl, Ulhasngar-4",Ulhasnagar,Thane,Maharashtra,9511810185,pornima14@gmail.com,26-08-1987,38,12th,Immitation Jewellery
+48,48,Rubi Manish Gajbhare, Manish Gajbhare,Female,SC,3724 4504 1599,"Mahatma Fule Conony Daha Chawl, Ulhasngar-4",Ulhasnagar,Thane,Maharashtra,9673438055,rubi@gmail.com,01-05-1991,34,12th,Immitation Jewellery
+49,49,Chhya Mahendra Gadpale, Mahendra Gadpale,Female,SC,5520 1435 5288,"Ulhasnagar, Thane",Ulhasnagar,Thane,Maharashtra,8767494050,chhya45@gmail.com,10-06-1972,53,12th,Immitation Jewellery
+50,50,Pratiksha Ajay Gangavne, Ajay Gangavne,Female,SC,5445 7824 3052,"Ambedkar Nagar, Kansai Road Behind , Ulhasnagar-4",Ulhasnagar,Thane,Maharashtra,8698545872,pratiska@gamil.com,31-08-1994,31,12th,Immitation Jewellery
+51,51,Anita Kiran Londhe,Kiran Londhe,Female,SC,3468 0673 4838,"Subhash Tekdi Ambedkar Chowk, Ulhasnagar-4",Ulhasnagar,Thane,Maharashtra,9503278207,anita@gmail.com,02-04-1983,42,12th,Immitation Jewellery
+52,52,Kajal Babu Shere, Babu Shere,Female,SC,2019 7288 5188,"Kurla Camp, Near Buddha Vihar , Ulhasnagr-4",Ulhasnagar,Thane,Maharashtra,9579646221,kajal@gmail.com,15-08-2001,24,12th,Immitation Jewellery
+53,53,Swati Latish Urkade,Latish Urkade,Female,SC,3417 9029 1746,"Kurla Camp, Ulhasnagar-4",Ulhasnagar,Thane,Maharashtra,7218334467,swati85@gmail.com,09-04-1991,34,12th,Immitation Jewellery
+54,54,Pranjali Deepak Saysamindar, Deepak Saysamindar,Female,SC,4381 6775 7127,"Shikrishna Colony Bhrahman Pada , Ulhasnagr-4",Ulhasnagar,Thane,Maharashtra,9011486599,pranjali@gamail.com,13-12-2002,23,12th,Immitation Jewellery
+55,55,Khushi Ajab Gavde, Ajab Gavde,Female,SC,8183 4419 7002,"Rahul Nagar, Sambhaji Chowkulhasnagar-4",Ulhasnagar,Thane,Maharashtra,7507289643,"khushi@g,mail.com",21-02-2005,20,12th,Immitation Jewellery
+56,56,Sakshi Ajab Gavde, Ajab Gavde,Female,SC,6362 9092 8861,"Rahul Nagar, Sambhaji Chowkulhasnagar-4",Ulhasnagar,Thane,Maharashtra,8830092004,sakshi@gmail.com,01-05-2003,22,12th,Immitation Jewellery
+57,57,Sima Sanjay Gangavne, Sanjay Gangavne,Female,SC,5702 4532 9009,"Subhash Tekdi Kansai Road, Ulhasnagar-4",Ulhasnagar,Thane,Maharashtra,8412075225,sima@gmail.com,01-03-1986,39,12th,Immitation Jewellery
+58,58,Asmita Amol Ingale, Amol Ingale,Female,SC,9139 2218 9767,"Sambhaji Chowk Mahalaxmi Jewellers, Ulhasnagar-4",Ulhasnagar,Thane,Maharashtra,7498360216,asmita@gmail.com,04-05-1994,31,12th,Immitation Jewellery
+59,59,Eshwari Yaduraj Chotpagar, Yaduraj Chotpagar,Female,SC,4178 0138 1934,"Adharsh Nagar, Station Road, Ulhasnagar-4",Ulhasnagar,Thane,Maharashtra,9766430907,eshwari@gmail.com,17-05-1988,37,12th,Immitation Jewellery
+60,60,Pooja Niba More, Niba More,Female,SC,9244 2285 4228,"Ganga Colony Station Road, Ulhasnagar-4",Ulhasnagar,Thane,Maharashtra,9028802039,pooja@gmail.com,10-04-2000,25,12th,Immitation Jewellery
+61,61,Jayshri Vilasrao Dhongde, Vilasrao Dhongde,Female,SC,5675 4243 3610,"Shanti Niketan B/002, Rameshwadi, Swami Samarath Math, Samarth Nagar, Badlapur West,421503 ",Badlapur,Thane,Maharashtra,9049550391,jayshree27@gmail.com,27-10-1999,26,8th,Beauty Parlour
+62,62,Sonali Amol Pawar , Amol Pawar ,Female,SC,7716 5672 4775,"102, B Wing , Akash Apartment, Bararage Road, Near Priti Building Badlapur West ",Badlapur,Thane,Maharashtra,9175865441,pawarsonali05@gmail.com,05-10-1988,37,10th,Beauty Parlour
+63,63,Monali Amol Awale, Amol Awale,Female,SC,7391 1849 8576,"Nagsen Nagar, B,H,A, Block No 360, Kurla Camp, Ulhasnagar 4",Badlapur,Thane,Maharashtra,7219896365,monaliee07@gmail.com,07-02-1991,34,10th,Beauty Parlour
+64,64,Sonali Sachin Unhavane , Sachin Unhavane ,Female,SC,3362 1887 5786,"B Wing, Gayatri Apt,  Near Manav Garden, Rameshwadi , Badlapur West  ",Badlapur,Thane,Maharashtra,7385853357,unhavanesonali054gmail.com,23-03-1986,39,10th,Beauty Parlour
+65,65,Shraddha Ganesh Mahankale, Ganesh Mahankale,Female,SC,4775 9980 9821,"304,Sai Ashish Apartment, Rameshwadi, Om Prathmesh Bajula , Samarth Nagar, Badlapur West ",Badlapur,Thane,Maharashtra,9561874864,shraddee30@gmail.com,30-04-1994,31,Graduate,Beauty Parlour
+66,66,Mayuri  Gautam Ghodke ,  Gautam Ghodke ,Female,SC,2175 0152 9044,"Katrap Buddha Vihar, Vedant Kalas, Room No 104, Badlapur ",Badlapur,Thane,Maharashtra,8291994329,mayuriee17@gmail.com,17-09-1998,27,10th,Beauty Parlour
+67,67,Bhavana Shivaji Sakpal, Shivaji Sakpal,Female,SC,9180 8542 0259,"Flat No 304, Om Narayan Khrupa Samarath Nagar, Badlapaur West ",Badlapur,Thane,Maharashtra,7021363812,bhavanee08@gmail.com,08-12-1984,41,8th,Beauty Parlour
+68,68,Pradnya Satish Kasbe , Satish Kasbe ,Female,SC,5987 6430 9645,"201,Shree Dev Apt, Bhagyshree Complex, Rameshwadi,West",Badlapur,Thane,Maharashtra,9175805464,pradnyee20@gmail.com,20-07-2007,18,12th,Beauty Parlour
+69,69,Shraddha Harish Gaware , Harish Gaware ,Female,SC,6295 8331 5687,"302, Sai Pooja Apt,Barrage Road, Near N.G.School Badlapur West ",Badlapur,Thane,Maharashtra,7757818238,shraddee301@gmail.com,N/A,21,12th,Beauty Parlour
+70,70,Pratiksha Vijendra Bhalerav , Vijendra Bhalerav ,Female,SC,8261 5787 2189,"B/103, Morya Darshan Building , Floor , Rameshwadi , Badlapur West ",Badlapur,Thane,Maharashtra,8329372483,pratikee07@gmail.com,07-01-1992,34,12th,Beauty Parlour
+71,71,Poonam Sandeep Garud , Sandeep Garud ,Female,SC,2250 4227 4231,"A Wing, 001 Sai Asharya Palce , Rameshwadi, Badlpaur  West ",Badlapur,Thane,Maharashtra,8149134501,garudpoonam0511gmail.com,04-10-1990,35,8th,Beauty Parlour
+72,72,Ashwini Sudhir Yadav , Sudhir Yadav ,Female,SC,6027 8275 3379,"Room No 609, P.G. Tower , Ayodhya Nagari , Hendrepada Road, Badlapur West",Badlapur,Thane,Maharashtra,8369254056,yadav22@gmail.com,22-02-1992,33,12th,Beauty Parlour
+73,73,Vaishali Ashish Jagdhane , Ashish Jagdhane ,Female,SC,4237 8957 4874,"Sai Ashray Apt, Church Road, Rameshwadi , Badlapur ",Badlapur,Thane,Maharashtra,8424048281,vaishaee03@gmail.com,03-11-1987,38,8th,Beauty Parlour
+74,74,Diya Nagesh Pandagale , Nagesh Pandagale ,Female,SC,5140 2910 0477,"Shri Sankent Apt G-2, Ganesh Nagar , Badlapur W",Badlapur,Thane,Maharashtra,9545020670,diya nee16@gmail.com,16-04-2007,18,Graduate,Beauty Parlour
+75,75,Chetana Abhay Bhole , Abhay Bhole ,Female,SC,8815 2196 7231,"Behind Juna Kapda Bazar, New Siddharth Nagar, Kopri Colony, Thane ",Badlapur,Thane,Maharashtra,9309061625,chetanee06@gmail.com,06-01-1998,28,10th,Beauty Parlour
+76,76,Swati Umesh Gaware , Umesh Gaware ,Female,SC,3766 7927 7684,"A15, Aryaprem Apt , Ndp Road , Katrap , Badlapur ",Badlapur,Thane,Maharashtra,7030825879,swati ee24@gmail.com,24-11-1991,34,12th,Beauty Parlour
+77,77,Shruti Ashok Mane , Ashok Mane ,Female,SC,2952 5089 2636,"A-401, Varun Pride Opp Vikas Galaxy , Sanewadi, Badlapur ",Badlapur,Thane,Maharashtra,8657091727,shruti26@gmail.com,26-05-2004,21,12th,Beauty Parlour
+78,78,Priyanka Ambadas Shinde , Ambadas Shinde ,Female,SC,6927 5758 8740,"Nayan Sagar Apt Barrage Road, Badlapur ",Badlapur,Thane,Maharashtra,9699847835,shinde16@gmail.com,16-10-2006,19,12th,Beauty Parlour
+79,79,Nisha Kisan Khade , Kisan Khade ,Female,SC,3103 9724 4446,"Priya Apt , Block No 14, Juna Dp Road, Katrap , Badlapur ",Badlapur,Thane,Maharashtra,8177970501,nisha ee14@gmail.com,14-04-2003,22,10th,Beauty Parlour
+80,80,Pratiksha Shailendra Shirke, Shailendra Shirke,Female,SC,8334 1054 3494,"Rameswadi , Badlapur ",Badlapur,Thane,Maharashtra,8424847991,nisha ee14@gmail.com,21-05-1994,31,10th,Beauty Parlour
+81,81,Mitali Vijay Ghoderao , Vijay Ghoderao ,Female,SC,9972 7379 4390,"A203, Gurucharan Apartment, Barrage Road, Badlapur West ",Badlapur,Thane,Maharashtra,7058668603,mitaliee20@gmail.com,20-01-2003,23,10th,Beauty Parlour
+82,82,Kajal Nikhil Kamble , Nikhil Kamble ,Female,SC,2224 7708 5773,"404,Jay Hights, Samarth Nagar,Near K.B.L. School , Rameshwadi , Badlapur West",Badlapur,Thane,Maharashtra,7410702092,kajal ee02@gchil.com,02-07-1997,28,Graduate,Beauty Parlour
+83,83,Sweta Alankar Shirsat , Alankar Shirsat ,Female,SC,7116 1276 4869,"House No 1317/7, Bhim Nagar, Near Durga Mandir, Navi Mumbai, Gansoli , Thane  ",Badlapur,Thane,Maharashtra,8879325387,sweta ee01@gchil.com,01-11-2002,23,12th,Beauty Parlour
+84,84,Aarti Subhash Ghule, Subhash Ghule,Female,SC,7619 1222 4016,"101, Om Sai Plaza ,Opp Kbk School , Rameshwadi , Badlapur West ",Badlapur,Thane,Maharashtra,9325501904,ghuleaarti0524gchil.com,28-04-2001,24,Graduate,Beauty Parlour
+85,85,Sweta Umesh Kamble , Umesh Kamble ,Female,SC,5914 0601 9549,"Sadguru Heritage Manjarli Chowk, Badlapur ",Badlapur,Thane,Maharashtra,7020550144,sweta ee05@gchil.com,05-07-1999,26,12th,Beauty Parlour
+86,86,Pradnya Prashant Dhumale , Prashant Dhumale ,Female,SC,7383 7916 0471,"Room No 2, Velneshwar Apt, Near Shani Mandir, Mohananand Nagar Manjarli , Badlapur West",Badlapur,Thane,Maharashtra,81692969349,pradnyee17@gmail.com,17-03-1986,39,10th,Beauty Parlour
+87,87,Prdnha Hemant Kardak , Hemant Kardak ,Female,SC,2212 7613 8676,"Room No A201, Jay Nilkanth , Darshan Bharat College , Hendre Pada, Kulgoan , Badlapur West ",Badlapur,Thane,Maharashtra,8793512204,prdnhaee05@gmail.com,05-09-1994,31,10th,Beauty Parlour
+88,88,Nilam Vishal Mane, Vishal Mane,Female,SC,8631 5058 5669,"O Wing , 204, Ritu World , Barrage Road , Badlapur West ",Badlapur,Thane,Maharashtra,8055969516,nilam ee31@gmail.com,31-05-1988,37,8th,Beauty Parlour
+89,89,Tanvi Kiran Ahire , Kiran Ahire ,Female,SC,4210 0614 5777,"Shree Dattadeep Apt Room No 2, A Wing , Rameshwadi, Church Road , Badlapur ",Badlapur,Thane,Maharashtra,8796466650,tanvi ee11@gmail.com,11-03-2007,18,12th,Beauty Parlour
+90,90,Neha Shailendra Shirke , Shailendra Shirke ,Female,SC,7153 3963 3962,"Shubham Park , B 204, Samartnagar, Rameshwadi , Badlapur West ",Badlapur,Thane,Maharashtra,9324568625,neha see28@gmail.com,28-12-1996,29,10th,Beauty Parlour
+91,91,Komal Baliram Yeul , Baliram Yeul ,Female,SC,5907 0572 6371,"Room No 3283,Near Bhmashankar Chawal, ",Ambernath,Thane,Maharashtra,7420873457,komal28@gmail.com,28-12-1991,34,12th,Aari Work
+92,92,Amrapali Rajesh Khobrragade, Rajesh Khobrragade,Female,SC,5111 4593 6417,"Khadan Road , Near Swant Park, ",Ambernath,Thane,Maharashtra,9657455738,amrapali23@gmail.com,23-04-1988,37,12th,Aari Work
+93,93,Aruna Mangesh Borkar , Mangesh Borkar ,Female,SC,7042 3272 3561,"House No 6697/7, Mahalaxmi Nagar , ",Ambernath,Thane,Maharashtra,8975201807,aruna13@gmail.com,13-03-1989,36,12th,Aari Work
+94,94,Manda Milind Humane , Milind Humane ,Female,SC,6392 4800 4826,"6957 Near Buddha Vihar , Mahalaxmi Nagar , Ambernath ",Ambernath,Thane,Maharashtra,7768818458,manda20@gmail.com,20-07-1983,42,12th,Aari Work
+95,95,Bharti Pawan Taktode, Pawan Taktode,Female,SC,7562 4954 9133,"Opp Shelke Farming, Khadan Road , Mahalaxmi Nagar , Ambernath ",Ambernath,Thane,Maharashtra,9604132293,bharti06@gmail.com,06-08-1998,27,12th,Aari Work
+96,96,Laxmi Gorakh Mhaske ,Laxmi Gorakh Mhaske ,Female,SC,3876 1287 5942,"House No 3140, Durga Mata Area , Mahalaxmi Nagatr , Ambernath ",Ambernath,Thane,Maharashtra,9167306251,laxmi22@gmail.com,22-03-2002,23,12th,Aari Work
+97,97,Rutika Satyapal Dongare, Satyapal Dongare,Female,SC,3160 1449 1895,"Bhimashankar Chawl , Ambernath Railwat Station , Mahalaxmi Nagar , Ambernath ",Ambernath,Thane,Maharashtra,8669773124,rutika01@gmail.com,01-01-2001,25,12th,Aari Work
+98,98,Priyanka Gautham Mustari , Gautham Mustari ,Female,SC,8950 3447 0302,"House No 6808, Someshwar Nagar , B Chawl , Mahalaxmi Nagar , Ambernath ",Ambernath,Thane,Maharashtra,7385797717,priyankamustari201@gmail.com,01-01-1998,28,12th,Aari Work
+99,99,Dipali Pravin Dongare ,Pravin Dongare ,Female,SC,5433 6219 4824,"Room No 3280, Bhima Shankar Chawal , Mahalaxmi Nagar , ",Ambernath,Thane,Maharashtra,8698898801,dipalidongare171@gmail.com,29-06-1986,39,12th,Aari Work
+100,100,Varsha Amit Donagare , Amit Donagare ,Female,SC,9254 5136 7942,"004, New Shivmahima Apt , Chs, Mahalaxmi Road, ",Ambernath,Thane,Maharashtra,8308241423,varsha05@gmail.com,05-07-1989,36,12th,Aari Work
+101,101,Kiran Nilesh Patil , Nilesh Patil ,Female,SC,2576 7333 5707,"Mahalaxmi Nagar , Durga Mata Mandir , Ambernath ",Ambernath,Thane,Maharashtra,7507541537,kiran04@gmail.com,04-04-1998,27,12th,Aari Work
+102,102,Suvarna Vinod Gondane , Vinod Gondane ,Female,SC,3624 4951 1089,"Someshwar Mandir  Mahalaxmi Nagar ,  ",Ambernath,Thane,Maharashtra,8300813093,suvarna26@gmail.com,26-03-1986,39,12th,Aari Work
+103,103,Bharti Ramakant Tayde , Ramakant Tayde ,Female,SC,7378 2763 7950,"Opp Bk No 1111, Ulhasnagar 3, Ulhasnaga Thane",Ambernath,Thane,Maharashtra,9545908273,bharti06@gmail.com,10-05-1990,35,12th,Aari Work
+104,104,Savita Vijay Kamble, Vijay Kamble,Female,SC,3542 5518 6129,Pathare Park Javal Ambernath,Ambernath,Thane,Maharashtra,9582647859,savita@gmail.com,21-06-1986,39,12th,Aari Work
+105,105,Rekha Manmohan Dhoke, Manmohan Dhoke,Female,SC,4242 5871 5282,"Mahalaxmi Nagar , Opp Amrapali Buddh Vihar , Ambernath ",Ambernath,Thane,Maharashtra,8856007043,rekha@gmail.com,01-07-1977,48,12th,Aari Work
+106,106,Asha Pramod Pawar, Pramod Pawar,Female,SC,5058 4349 8658,Ambedkar Nagar Ambernath Thane,Ambernath,Thane,Maharashtra,9856235842,asha@gmail.com,21-08-1984,41,12th,Aari Work
+107,107,Rajeshwari Santosh Kattimani, Santosh Kattimani,Female,SC,5912 6858 0008,"Navare Nagar , Ambernath ",Ambernath,Thane,Maharashtra,9511810185,kattimanirajesh@gmail.com,26-08-1987,38,12th,Aari Work
+108,108,Mala Dhanraj Mohod , Dhanraj Mohod ,Female,SC,9835 4876 7353,Ashtvinayak Chawl Modi Kirana Store Ambernath Thane,Ambernath,Thane,Maharashtra,9175559985,mala@gmail.com,18-01-1990,36,12th,Aari Work
+109,109,Manisha Viru Wasnik, Viru Wasnik,Female,SC,6566 6290 5390,Ambernath Thane ,Ambernath,Thane,Maharashtra,7058960613,manisha@gmail.com,21-10-1995,30,12th,Aari Work
+110,110,Karishma Kishor Gaikwad, Kishor Gaikwad,Female,SC,6044 5115 4963,Veer Sawarkr Chowk Ambernath East Thane,Ambernath,Thane,Maharashtra,9856214785,karishmagaikwad@gmail.com,20-12-1993,32,12th,Aari Work
+111,111,Archana Vinod Kamble, Vinod Kamble,Female,SC,4581 9524 2498,Chinchpada Road Opp Avinash Bangla Ambernath ,Ambernath,Thane,Maharashtra,985624123,archana@gmail.com,19-03-1987,38,12th,Aari Work
+112,112,Trupti Vijay Mane, Vijay Mane,Female,SC,6930 3814 9906,Veer Sawarkr Chowk Ambernath East Thane,Ambernath,Thane,Maharashtra,7666080580,trupti@gmail.com,12-11-1991,34,12th,Aari Work
+113,113,Sangita Bhaiyalal Nagdive, Bhaiyalal Nagdive,Female,SC,6743 1475 0044,"Bhimashankar Chawl , Ambernath , Mahalaxmi Nagar , Ambernath ",Ambernath,Thane,Maharashtra,9209694099,sangita@gmail.com,10-06-1980,45,12th,Aari Work
+114,114,Pratiksha Gautam Patil, Kamlesh Patil,Female,SC,7212 1805 1441,Near Durga Mata Mandir Mahalaxmi Nagar Ambernath Thane,Ambernath,Thane,Maharashtra,9359445013,patil pratiksha@gmail.com,20-02-2000,25,12th,Aari Work
+115,115,Vanita Deepak Gaikwad, Deepak Gaikwad,Female,SC,6699 7236 2351,Veer Sawarkr Chowk Ambernath East Thane,Ambernath,Thane,Maharashtra,740032393,vanita12@gmail.com,23-08-1984,41,12th,Aari Work
+116,116,Rekha Rajesh Suryawanshi, Rajesh Suryawanshi,Female,SC,7165 4175 4829,Mangesh Niwas Room No 103 Plot No 57 Ambernath ,Ambernath,Thane,Maharashtra,859425716,rekhasuryawanshi@gmail.com,01-11-1980,45,12th,Aari Work
+117,117,Manisha Chandradeep Taide,Chandradeep Taide,Female,SC,5075 3812 2392,Ambernath Thane ,Ambernath,Thane,Maharashtra,960431681,manisha08@gmail.com,18-05-1990,35,12th,Aari Work
+118,118,Kavita Kiran Pawar, Kiran Pawar,Female,SC,5347 3537 7965,First Gate Anand Nagar Kalyan Ulhasnagar 2,Ambernath,Thane,Maharashtra,7387875824,kavita@gmail.com,25-07-1991,34,12th,Aari Work
+119,119,Varsha Siddharth Patole,Siddharth Patole,Female,SC,7925 1352 0195,Ambernath Thane ,Ambernath,Thane,Maharashtra,9503074882,varsha patole||@gmail.com,26-01-1984,42,12th,Aari Work
+120,120,Amrapali Mahendra Kamble, Mahendra Kamble,Female,SC,8496 4166 5933,Ambernath Thane ,Ambernath,Thane,Maharashtra,9865214587,amrapali234@gmail.com,03-09-1994,31,12th,Aari Work
+121,121,Kanchan Zankar,Swapnil,Female,SC,9546 6239 0274,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,8956471238,kanchan@gmail.com,N/A,42,12th,Aari Work
+122,122,Harshali Zankar,Sandip,Female,SC,8264 9242 2177,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,9658741236,harshali@gmail.com,28-03-1988,37,12th,Aari Work
+123,123,Supriya Jadhav,Amit,Female,SC,3118 6039 9165,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,9372047269,supriya@gmail.com,11-09-1985,40,12th,Aari Work
+124,124,Mrunal Gangurde,Milind,Female,SC,7085 9911 8411,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,8965471236,mrunal@gmail.com,20-08-2000,25,12th,Aari Work
+125,125,Archana Kadam,Mangesh,Female,SC,2301 2725 9938,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,8424883382,archana@gmail.com,02-10-1988,37,12th,Aari Work
+126,126,Pournima Bagul,Deepesh,Female,SC,4348 2032 3096,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,7875958546,pournima@gmail.com,20-03-1993,32,12th,Aari Work
+127,127,Vidya Dhivare,Krishna,Female,SC,3153 4844 6808,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,7586941256,vidya@gmail.com,01-12-1984,41,12th,Aari Work
+128,128,Sujata Chkranarayan,Chatrpati,Female,SC,6841 5923 8612,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,9856471236,sujata@gmail.com,08-01-1983,42,12th,Aari Work
+129,129,Jyoti Wagh,Pravin,Female,SC,6727 5797 8500,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,9768343475,jyoti@gmail.com,19-09-1987,38,12th,Aari Work
+130,130,Rajnandini Vhatkar,Ramesh,Female,SC,8563 8085 3528,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,8547962314,rajnandini@gmail.com,01-01-2001,24,12th,Aari Work
+131,131,Priyanka Jadhav,Raju,Female,SC,9120 4589 4936,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,9568745123,priyanka@gmail.com,28-12-1995,30,12th,Aari Work
+132,132,Laxmi Nikalje ,Babulal,Female,SC,3260 4173 2067,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,7458961236,laxmi@gmail.com,19-12-2003,22,12th,Aari Work
+133,133,Rani Chabuskwar,Ganesh,Female,SC,6888 6306 4223,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,9604230486,rani@gmail.com,29-11-1995,30,12th,Aari Work
+134,134,Sarika Gaikwad,Ravindra ,Female,SC,6995 1774 9427,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,7896547852,sarika@gmail.com,02-12-1987,38,12th,Aari Work
+135,135,Priyanka Gaikwad,Mohan,Female,SC,3631 6335 4052,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,8547123691,priyanka@gmail.com,01-02-1989,36,12th,Aari Work
+136,136,Prachiti Ranpise,Ravindra ,Female,SC,8333 7351 4963,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,9166582040,prachiti@gmail.com,12-06-2006,19,12th,Aari Work
+137,137,Sarika Dhoke,Sunil,Female,SC,6995 1774 9427,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,7045542544,sarika@gmail.com,02-12-1987,38,12th,Aari Work
+138,138,Sapna Sontakke,Balaso,Female,SC,3585 0795 6018,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,7845698894,sapna@gmail.com,10-05-1982,43,12th,Aari Work
+139,139,Seema Barve,Nagesh,Female,SC,8452 0533 4032,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,9769844792,seema@gmail.com,N/A,42,12th,Aari Work
+140,140,Switi Parihar,Dildar,Female,SC,2832 2691 4612,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,9974584123,switi@gmail.com,02-10-2004,21,12th,Aari Work
+141,141,Shamala Ovhal,Kunal,Female,SC,9826 5201 5757,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,9326772249,shamala@gmail.com,26-08-1990,35,12th,Aari Work
+142,142,Jayshree Pathare,Dildar,Female,SC,5732 5688 5768,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,9782664410,jayshree@gmail.com,12-08-1988,37,12th,Aari Work
+143,143,Indu Kamble,Uday,Female,SC,4980 8881 9907,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,9020445682,indu@gmail.com,01-07-1988,37,12th,Aari Work
+144,144,Rupali Kadam,Rupeshkumar,Female,SC,4469 2818 8400,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,7770039158,rupali@gmail.com,25-03-1981,44,12th,Aari Work
+145,145,Koyal Sorate,Abhay,Female,SC,9744 7013 6211,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,9012365478,koyal@gmail.com,14-06-1999,26,12th,Aari Work
+146,146,Ankita  Wykar, Santosh,Female,SC,7039 1681 6748,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,9370114553,ankita@gmail.com,01-07-1993,32,12th,Aari Work
+147,147,Varsha  Vagmare,Sanju ,Female,SC,6376 2058 1405,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,7738854992,varsha@gmail.com,10-03-1999,26,12th,Aari Work
+148,148,Shital Pawar,Santosh ,Female,SC,2154 7237 7509,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,9372822462,shital@gmail.com,31-01-1985,40,12th,Aari Work
+149,149,Sawra  Kadam,Sacin,Female,SC,8179 5681 8311,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,7304399214,sawra@gmail.com,23-04-1986,39,12th,Aari Work
+150,150,Archana Ahire,Sanjay ,Female,SC,8691 8592 9007,Mhatre Naka Chinchpada,Chinchpada,Thane,Maharashtra,9854123607,archana@gmail.com,24-01-1984,41,12th,Aari Work
+151,151,Akshada Ramesh Gaikwad,Ramesh,Female,SC,9491 4949 9479,At Khopiwali Dst Thane Tal Murbad,Murbad,Thane,Maharashtra,9322239614,akshdagaikwad209@gmail.com,16-10-2000,24,12th,Advance Excel
+152,152,Pranali Vinayak Thorat,Vinayak,Female,SC,6308 9434 8096,At Chasole Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,7887716126,thoratpranali05@gmail.com,22-10-2004,21,12th,Advance Excel
+153,153,Namrta Madhukar Thorat,Madhukar,Female,SC,6087 1988 3932,At Chasole Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8411007021,namrtathorat08@gmail.com,05-10-2000,25,12th,Advance Excel
+154,154,Priyanka Ashok Gaikwad,Ashok,Female,SC,6323 5527 4004,At Tulai Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8010991984,ashokgaikwad15500@gmail.com,07-09-2006,20,12th,Advance Excel
+155,155,Sakshi Anant Bhalerao,Anant,Female,SC,8003 1342 2488,At Ambegaon Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9272633304,bhaleraosakshi78786543@gmail.com,28-03-2003,22,12th,Advance Excel
+156,156, Kajal Ramesh Jadhav,Ramesh,Female,SC,5632 8058 9005,At Nariwali Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8805347725,kj15394@gmail.com,08-03-2002,23,12th,Advance Excel
+157,157,Archan Gautam More,Gautam,Female,SC,8569 1997 0556,At Chasole Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9356071130,amore@gmail.com,11-05-1999,26,12th,Advance Excel
+158,158,Dipika Kaluram Thorat,Kaluram,Female,SC,4725 1744 3678,At Talegaon Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9325736468,dipikathorat@gmail.com,06-10-2003,22,12th,Advance Excel
+159,159,Shital Prakash More,Prakash,Female,SC,3412 5299 0015,At Fangane Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9370175877,shitalmore@gmail.com,08-01-1986,39,12th,Advance Excel
+160,160,Aasha Arun Pawar,Arun,Female,SC,8414 3664 3767,At Sarlgaon Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,7738531864,aashapawar@gmail.com,09-10-1995,30,12th,Advance Excel
+161,161,Sangita Khandu Jadhav,Khandu,Female,SC,3489 5034 8223,At Shiwachi Vadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8767893541,sangeetajadhav@gmail.com,08-11-1990,35,12th,Advance Excel
+162,162,Vedika Vishal Desale,Vishal,Female,SC,5956 5499 6685,At Maniwali Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9146908314,vedikadesale@gmail.com,29-06-1997,28,12th,Advance Excel
+163,163,Prdnya Siddharth Lokhande,Siddharth,Female,SC,8790 1079 7735,At Chasole Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9209770242,prdnyalokhande2@gmail.com,27-03-2004,21,12th,Advance Excel
+164,164,Sneha Laxman Bhalerao,Laxman,Female,SC,2117 5976 1797,At Sarlgaon Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,82085550982,shnehubhalerao@gmail.com,05-03-2007,18,12th,Advance Excel
+165,165,Pooja Bhushan Dhangar,Bhushan,Female,SC,3101 4055 4646,At Maniwali Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9763426603,dhangarprdnya@gmail.com,30-05-1995,30,12th,Advance Excel
+166,166,Priti Kuldip Kholambe,Kuldip,Female,SC,4412 1546 7897,At Maniwali Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9322806641,pritikholambe@gmail.com,22-10-1997,28,12th,Advance Excel
+167,167,Sakshi Baba Raut,Baba,Female,SC,9884 7846 4051,At Mal Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8329260344,sakshibhalerao@gmail.com,03-07-2005,20,12th,Advance Excel
+168,168,Sahara Manohar Jadhav,Manohar,Female,SC,6248 6129 7632,At Maniwali Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8868562010,saharajadhav@gmail.com,22-12-2003,22,12th,Advance Excel
+169,169,Priyanka Khandu Jadhav,Khandu,Female,SC,2164 6594 5693,At Shiwachi Vadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,766696347,priyankajadhavb@gmail.com,03-07-2006,20,12th,Advance Excel
+170,170,Reshma Kisan Gaikwwad,Kisan,Male,SC,5579 7854 3068,At Maniwali Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9373632998,gaikwadreshma@gmail.com,22-03-2006,20,12th,Advance Excel
+171,171,Sushant Gulab Ubale,Gulab,Male,SC,6758 6628 8965,At Chasole Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9579057231,sushantubale@gmail.com,25-01-2004,21,12th,Advance Excel
+172,172,Rushant Gulab Ubale,Gulab,Male,SC,8474 6768 8526,At Chasole Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,7498643692,rushantubale112@gmail.com,24-05-2006,20,12th,Advance Excel
+173,173,Akansha Ananta Patole,Ananta,Female,SC,2620 6000 4526,At Balegaon Dist T%Hane Tal Murbad,Murbad,Thane,Maharashtra,8169102508,akanshapatole@gmail.com,26-03-2006,20,12th,Advance Excel
+174,174,Gaurav Dhanji Gaikwad,Dhanaji,Male,SC,7035 2600 8024,At Aalwe Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9834646867,thoratgauri@gmail.com,09-01-2006,20,12th,Advance Excel
+175,175,Gauri Avinash Thorat,Avinash,Female,SC,9113 4286 5259,At Ambiwali Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8830680142,gaurithorat@gmail.com,20-02-2000,25,12th,Advance Excel
+176,176,Ashwini Vilas Soshte,Vilas,Female,SC,8202 0685 4947,At Gunde Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9021928362,ashwinisoshte@gmail.com,24-08-1995,30,12th,Advance Excel
+177,177,Diksha Raghunath Thorat,Raghunath,Female,SC,6428 6435 3763,At Ambiwali Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,7774040853,thoratdiksha23@gmail.com,18-03-2004,21,12th,Advance Excel
+178,178,Pratiksha Daulat Gaikwad,Daulat,Female,SC,4350 6789 6846,At Balegaon Dist Thhane Tal Murbad,Murbad,Thane,Maharashtra,7972806137,gaikwadpratu@gmail.com,25-02-2002,23,12th,Advance Excel
+179,179,Asmita Jayram Patole,Jayram,Female,SC,7968 5401 8515,At Balegaon Dist Thhane Tal Murbad,Murbad,Thane,Maharashtra,8805449339,asmitapatole@gmail.com,14-09-2003,22,12th,Advance Excel
+180,180,Aniket Kishor Bhoir,Kishor,Female,SC,3360 6445 5820,At Vaishakre Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,7038481376,bhoiraniket112@gmailcom,07-08-1999,26,12th,Advance Excel
+181,181,Kamal Pintu Shende,Pintu,Female,ST,3421 2031 6227,At Maniwali Fdisty Thane Tal Murbad,Murbad,Thane,Maharashtra,9022872601,kamalshende@gmail.com,28-04-1988,38,12th,Jewellery Making
+182,182,Kunal Raghunath Mengal,Raghunath,Male,ST,3456 5664 3836,At Dhasai Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8412939373,mengalkunal@gmail.com,05-05-2003,22,12th,Jewellery Making
+183,183,Rajesh Soma Khakar,Soma,Male,ST,8888 2217 7589,At Shisewadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9309553457,rajeshkhakar@gmail.com,06-08-2006,20,12th,Jewellery Making
+184,184,Nikita Keshav Wagh,Keshav,Female,ST,6010 5088 0963,At Shisewadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9359537273,nikitawagh@gmail.com,20-03-2006,20,12th,Jewellery Making
+185,185,Vaibhav Vinayak Nirguda,Vinayak,Male,ST,5716 9770 9079,At Kewarwadi Tal Murbad Dist Thane,Murbad,Thane,Maharashtra,8767315469,vaibhavnirguda11@gmail.com,04-02-2004,22,12th,Jewellery Making
+186,186,Barko Aalo Wagh,Aalo,Male,ST,8459 3268 4483,At Zadhghar Distn Thane Tal Murbad,Murbad,Thane,Maharashtra,9273524857,barkowagh21@gmail.com,08-02-1987,39,12th,Jewellery Making
+187,187,Kanta Balu Shid,Balu,Female,ST,4496 6599 5962,At Sukalwadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8080560382,kantashid@gmail.com,16-07-2004,22,12th,Jewellery Making
+188,188,Pankaj Balu Shid,Balu,Male,ST,3038 6657 4492,At Sukalwadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9226502490,shidpankaj03@gmail.com,02-07-2007,18,12th,Jewellery Making
+189,189,Kamal Sachin Bangara,Sachin,Female,ST,9715 3254 4764,At Dongrwadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9529409737,kamalbangara20011@gmail.com,21-03-1999,27,12th,Jewellery Making
+190,190,Kavita Laxman Nirguda,Laxman,Female,ST,5802 7875 7825,At Maal Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,7038481376,kavitanirguda@gmail.com,20-04-2002,23,12th,Jewellery Making
+191,191,Amol Waman Khakar,Waman,Male,ST,7191 9642 3996,At Talegaon Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8080623072,khakaramol@gmail.com,13-06-2002,23,12th,Jewellery Making
+192,192,Tushar Waman Pardhi,Waman,Male,ST,6799 3186 4114,At Talegaon Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8830582268,pardhitushar221@gmail.com,27-08-1999,26,12th,Jewellery Making
+193,193,Girish Ramesh Khakar,Ramesh,Male,ST,5051 5462 1712,Atshirsonwadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8275269244,girishkhakar19@gmail.com,16-06-2006,19,12th,Jewellery Making
+194,194,Madhukar Dhau Wagh,Dhau,Male,ST,5962 0207 0389,At Shisewadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8766903345,madhukarwagh11@gmail.com,23-03-1984,41,12th,Jewellery Making
+195,195,Sandip Dashrath Wagh,Dashrath,Male,ST,4998 2194 8006,At Kochre Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9309467968,waghsandip11@gmail.com,07-06-2005,18,12th,Jewellery Making
+196,196,Vishwas Dilip Nirguda,Dilip,Male,ST,3413 1832 6397,At Kochre Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,7744913165,nirgudavishwas21@gmail.com,05-09-2006,19,12th,Jewellery Making
+197,197,Vishal Narayan Shid,Narayan,Male,ST,8180 9085 3084,At Kochre Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8788725818,vishalshid@gmail.com,01-02-2006,20,12th,Jewellery Making
+198,198,Ramesh Jagan Kavate,Jagan,Male,ST,3051 0864 2414,At Dongrwadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8459400374,rameshkavate22@gmail.com,17-06-2000,25,12th,Jewellery Making
+199,199,Swapnali Swapnil Jadhav,Swapnil,Female,ST,4676 9099 7654,At Tokawade Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,7507743157,rahulsandhya2320@gmail.com,23-05-1990,35,12th,Jewellery Making
+200,200,Jaywant Dhau Wagh,Dhau,Male,ST,2532 4528 0735,At Shisewadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,7499396347,jaywantwagh@gmail.com,N/A,39,12th,Jewellery Making
+201,201,Anita Barku Wagh,Barku,Female,ST,8279 1056 7045,At Zadhghar Distn Thane Tal Murbad,Murbad,Thane,Maharashtra,9404576957,anitawagh22@gmail.com,13-12-1994,31,12th,Jewellery Making
+202,202,Reshma Madhukar Wagh,Madhukar,Female,ST,5398 5053 9093,At Shisewadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,7499396347,reshmawagh2102@gmail.com,14-12-2008,18,12th,Jewellery Making
+203,203,Vitthal Hari Nirguda,Hari,Male,ST,2474 5974 3150,At Shisewadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9699775807,vitthalnirguda@gmail.com,03-07-2006,20,12th,Jewellery Making
+204,204,Shankar Maruti Hambir,Maruti,Male,ST,4988 8690 0176,Bhikarwadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9021162285,shankarhambir@gmail.com,08-05-2002,24,12th,Jewellery Making
+205,205,Vanita Ramesh Kavate,Ramesh,Female,ST,7414 4177 1669,At Dongrwadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8459400374,kavatevanita11@gmail.com,14-05-2005,20,12th,Jewellery Making
+206,206,Pradip Nathu Pardhi,Nathu,Male,ST,3212 1533 7764,At Karptwadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9699244798,pradippardhi@gmail.com,17-01-2005,21,12th,Jewellery Making
+207,207,Kavita Namdev Wagh,Namdev,Female,ST,4320 9461 0078,At Zadhghar Distn Thane Tal Murbad,Murbad,Thane,Maharashtra,9834631809,kamalwagh@gmail.com,28-11-2003,23,12th,Jewellery Making
+208,208,Narayn Daulat Khodka,Daulat,Male,ST,8542 3163 4515,At Pendhri Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8010874913,naraynkhodka11@gmail.com,17-04-2006,20,12th,Jewellery Making
+209,209,Mahesh Nathu Pardhi,Nathu,Male,ST,3866 1112 8120,At Karpatwadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8080524089,maheshpardhi@gmail.com,05-10-2006,20,12th,Jewellery Making
+210,210,Rekha Mahadu Nirguda,Mahadu,Female,ST,5747 2880 8453,At Sukalwadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8999078470,rekhnirgud@gmail.com,03-05-2002,24,12th,Jewellery Making
+211,211,Aarti Santosh Khandare,Santosh Prakash Khandare,Female,SC,3871 6191 4759,3/3 Kailash Nagar Kailash Colony Shankar Pawshe Road Kalyan East 421306,Vitthalwadi,Thane,Maharashtra,8779098448,arti@gmail.com,20-09-1988,37,Graduate,Jewellery Making
+212,212,Minal Popat Sonawane,Popat Sonawane,Female,SC,6548 6423 0914,Raigad Colony 1/4 Shankar Pawshe Road Near Water Tank Kalyan East 421306,Vitthalwadi,Thane,Maharashtra,8600123364,minal@gmail.com,08-07-1999,26,Graduate,Jewellery Making
+213,213,Rupali Ravindra Dolse,Ravindra Dolse,Female,SC,3630 2367 0435,New Meenakshi Apartment Maratha Section Ulhasnagar Kalyan East,Vitthalwadi,Thane,Maharashtra,9172471050,rupali@gmail.com,20-12-1993,32,10th,Jewellery Making
+214,214,Gauri Arvind Khandare,Arvind Gopal Khandare,Female,SC,4545 7912 5335,Ganesh Colony Khadegolvali Vitthalwadi East,Vitthalwadi,Thane,Maharashtra,8433767162,gauri@gmail.com,02-01-2007,19,10th,Jewellery Making
+215,215,Meenakshi Raju Katke,Raju Narsing Katke,Female,SC,8727 7082 8350,Kailash Nagar Katemanivli Kalyan East,Vitthalwadi,Thane,Maharashtra,9867014376,meenakshirkatke13@gmail.com,15-07-1982,43,10th,Jewellery Making
+216,216,Dipali Prashant Khade,Prashant Khade,Female,SC,6070 3477 5029,Ramji Ambedkar Nagar Ulhasnagar ,Vitthalwadi,Thane,Maharashtra,99675615824,dipali@gmail.com,23-03-1996,30,10th,Jewellery Making
+217,217,Prashika Sandeep Kathe,Sandeep Kathe,Female,SC,8333 7710 1135,Ramji Ambedkar Nagar Ulhasnagar ,Vitthalwadi,Thane,Maharashtra,8698335616,pratiksha@gmail.com,12-03-2007,18,10th,Jewellery Making
+218,218,Smita Sandeep More,Sandeep More,Female,SC,5949 4072 6855,Saibaba Nagar Kalyan East,Vitthalwadi,Thane,Maharashtra,8104256402,smitiksha@gmail.com,09-05-1982,45,10th,Jewellery Making
+219,219,Ujwala Mahadev Kawale,Mahadev Kavale,Female,SC,8293 5505 1428,Kalyan Shahad East,Vitthalwadi,Thane,Maharashtra,8850142887,ujwtiksha@gmail.com,02-12-1980,45,10th,Jewellery Making
+220,220,Seema Sagar Jadhav,Sagar Jadhav,Female,SC,4852 9449 2372,Rajeshwari Park Malang Gad Kalyan East,Vitthalwadi,Thane,Maharashtra,8898349955,seema@gmail.com,29-12-1993,32,10th,Jewellery Making
+221,221,Sneha  Rajesh Dodhwani,Rajesh Dodhmani,Female,SC,5593 5070 1292,Pushparaj Colony Katemanivli Kalyan East,Vitthalwadi,Thane,Maharashtra,7710975629,sneha@gmail.com,15-10-2005,20,10th,Jewellery Making
+222,222,Sunita Sandeep Shinde,Sandeep Shinde,Female,SC,3833 7130 2707,Yashojyoti Aprtment Kalyan Purv,Vitthalwadi,Thane,Maharashtra,8082387229,suntiksha@gmail.com,07-02-1980,45,10th,Jewellery Making
+223,223,Anushka Parshuram Ingale,Parshuram Kadam,Female,SC,2610 5080 0499,Katemanivli Kalyan East.,Vitthalwadi,Thane,Maharashtra,9545274565,anutiksha@gmail.com,05-12-2004,21,10th,Jewellery Making
+224,224,Reshma Mahendra Kakade,Mahendra Kakde,Female,SC,7550 3923 7174,Supriya Apartment Vijay Nagr Kalyan East,Vitthalwadi,Thane,Maharashtra,9137607197,reshma@gmail.com,17-10-1980,45,10th,Jewellery Making
+225,225,Padmini Rajendra Kadam,Rajendra Kadam,Female,SC,7720 7250 1647,Tisgaon Kalyan East,Vitthalwadi,Thane,Maharashtra,8693041233,padmini@gmail.com,27-10-1980,45,10th,Jewellery Making
+226,226,Kavita Raju Meshram,Raju Meshram,Female,SC,2301 4366 6607,Vijay Nagar Kalyan East,Vitthalwadi,Thane,Maharashtra,8169226455,kavita@gmail.com,14-04-1978,47,10th,Jewellery Making
+227,227,Madhuri Sopan Mane,Sopan Mane,Female,SC,5461 5851 7459,Shivaji Colony Losewadi Kalyan East,Vitthalwadi,Thane,Maharashtra,9326992362,madhuri@gmail.com,21-12-1985,40,10th,Jewellery Making
+228,228,Rajashree Rajesh Dodmani,Rajesh Dodhmani,Female,SC,5877 7609 7847,Pushparaj Colony Katemanivli Kalyan East,Vitthalwadi,Thane,Maharashtra,8983869193,rajtiksha@gmail.com,12-03-1982,43,10th,Jewellery Making
+229,229,Rajashree Agavne,Sunil Agavane,Female,SC,2390 9262 4104,Tisgaon Katemanivli Kalyan East ,Vitthalwadi,Thane,Maharashtra,8976326689,rajtiksha@gmail.com,12-02-1986,39,10th,Jewellery Making
+230,230,Praita Jadhav,Sandesh,Female,SC,3389 1746 1918,Kalyan,Vitthalwadi,Thane,Maharashtra,7766856674,praita@gmail.com,14-06-1995,30,10th,Jewellery Making
+231,231,Neha Bagul,Purnanand,Female,SC,5736 9750 4982,Kalyan,Vitthalwadi,Thane,Maharashtra,7777049394,neha@gmail.com,13-11-1996,29,10th,Jewellery Making
+232,232,Pravinya Bhalerao,Anil,Female,SC,2919 8545 9284,Kalyan,Vitthalwadi,Thane,Maharashtra,9689875820,pravinya@gmail.com,16-03-2006,19,10th,Jewellery Making
+233,233,Diksha Ingale,Govardhan,Female,SC,5802 7286 4735,Kalyan,Vitthalwadi,Thane,Maharashtra,9820096544,diksha@gmail.com,27-10-1999,26,10th,Jewellery Making
+234,234,Viprajita Damodar,Vinod,Female,SC,5242 2105 920,Kalyan,Vitthalwadi,Thane,Maharashtra,8010439581,viprajita@gmail.com,21-10-2003,22,10th,Jewellery Making
+235,235,Sarita Gaikwad,Sumedh,Female,SC,7356 1914 8855,Kalyan,Vitthalwadi,Thane,Maharashtra,9087543521,sarita@gmail.com,19-12-1988,27,10th,Jewellery Making
+236,236,Aboli Bagul,Purnanad,Female,SC,4132 6734 4494,Kalyan,Vitthalwadi,Thane,Maharashtra,8419991049,abotiksha@gmail.com,07-11-1997,28,10th,Jewellery Making
+237,237,Kajal Jadhav,Swapnil,Female,SC,3364 8938 9757,Kalyan,Vitthalwadi,Thane,Maharashtra,7350712562,kajal@gmail.com,30-12-1993,32,10th,Jewellery Making
+238,238,Smita Bagul,Ganesh,Female,SC,9716 7157 2255,Kalyan,Vitthalwadi,Thane,Maharashtra,9987412399,smitiksha@gmail.com,10-10-1981,44,10th,Jewellery Making
+239,239,Megha Wagh,Yogesh,Female,SC,3519 4835 9265,Kalyan,Vitthalwadi,Thane,Maharashtra,8169267103,megtiksha@gmail.com,09-12-1990,35,10th,Jewellery Making
+240,240,Pradnya Mohite,Nayan,Female,SC,3060 6174 1367,Kalyan,Vitthalwadi,Thane,Maharashtra,9767004532,pradnya@gmail.com,15-10-1995,30,10th,Jewellery Making
+241,241,Ranjana Dashraath Khadke,Dashrath,Female,ST,5227 9648 6182,At Talegaon,Thane,Thane,Maharashtra,9021171120,ranjanakhadake4@gmail.com,25-04-2005,20,Graduate,Basic Computer
+242,242,Rohit Somnath Bhangre,Somnath,Male,ST,6737 7715 2787,Barwwadi,Thane,Thane,Maharashtra,9021171120,omprakashpardhi11@gmail.com,18-04-2005,20,12th,Basic Computer
+243,243,Divya Laxman Pardhi,Laxman,Male,ST,8940 1593 6229,Mohwadi,Thane,Thane,Maharashtra,7798636516,gawaripratiksha8@gmail.com,07-12-2006,19,Graduate,Basic Computer
+244,244,Umesh Kamalu Bhala,Kamalu,Male,ST,2900 0447 6787,Tokawade,Thane,Thane,Maharashtra,8010430147,umeshbhala48@gmail.com,25-05-2006,19,12th,Basic Computer
+245,245,Ganesh Vithal Barmade,Vitthal,Male,ST,4612 0795 5283,Shenit,Thane,Thane,Maharashtra,8888719238,ganeshbarmade@gmail.com,02-08-2005,19,12th,Basic Computer
+246,246,Sunanda Dattaray Vare,Dattatatray,Female,ST,5179 0789 0531,Singapur,Thane,Thane,Maharashtra,902144587,varesunanda06@gmail.com,06-10-1983,42,12th,Basic Computer
+247,247,Nita Krushna Shid,Krushna,Female,ST,5696 7061 0017,Sukalwadi,Thane,Thane,Maharashtra,8767068474,neetashid@gmail.com,16-05-2000,20,12th,Basic Computer
+248,248,Priyanka Dattu Darawada,Dattu,Female,ST,9882 6509 7127,Durgapur,Thane,Thane,Maharashtra,9834380138,maheshdarvada46@gmail.com,04-02-2003,22,12th,Basic Computer
+249,249,Ratna Mangesh Pardhi,Mangesh,Female,ST,6524 9892 1396,Aawlewadi,Thane,Thane,Maharashtra,9834380138,ratnapardhi@gmail.con,04-03-1998,26,10th,Basic Computer
+250,250,Poonam Bhaskar Mengal,Bhaskar,Female,ST,9521 4703 4704,Sukalwadi,Thane,Thane,Maharashtra,8999078470,bhalapallavi5@gmail.com,21-07-2004,21,12th,Basic Computer
+251,251,Pallavi Ashok Bhala,Ashok,Female,ST,5392 9546 3682,Sukalwadi,Thane,Thane,Maharashtra,8999078470,bhalapallavi5@gmail.com,04-04-2006,18,12th,Basic Computer
+252,252,Ravi Mangesh Pardhi,Mangesh,Male,ST,5522 3928 4963,Aawlewadi,Thane,Thane,Maharashtra,9322387311,ravipardhi@gmail.com,07-12-2000,18,12th,Basic Computer
+253,253,Nilam Sainath Bhonde,Sainath,Female,ST,8908 4470 0550,Bhiwandi ,Thane,Thane,Maharashtra,9725660411,nilam@gmail.com,10-08-1992,33,12th,Basic Computer
+254,254,Ravindra Vitthal Mengal,Vitthal,Male,ST,3673 7360 7605,Goregaon,Thane,Thane,Maharashtra,7057232888,ravindramengal@gmail.com,23-01-2005,20,10th,Basic Computer
+255,255,Jyostna Ragho Shid,Ragho,Female,ST,8330 8901 6587,Mal,Thane,Thane,Maharashtra,935901517,umeshhshid6@gmail.com,01-08-2001,24,12th,Basic Computer
+256,256,Umesh Ragho Shid,Ragho,Male,ST,4018 6031 0909,Mal,Thane,Thane,Maharashtra,935901557,umeshshid6@gmail.com,25-02-2003,22,10th,Basic Computer
+257,257,Jayram Bhaskar Khakar,Bhaskar,Male,ST,3751 8427 0158,Dongrwadi,Thane,Thane,Maharashtra,8080106846,jayramkhakar458@gmail.com,18-12-2002,22,12th,Basic Computer
+258,258,Asha Sursesh Wagh,Suresh,Male,ST,3330 4648 9173,Khutarwadi,Thane,Thane,Maharashtra,9529397820,ashawagh05@gmail.com,26-05-2003,22,12th,Basic Computer
+259,259,Jaya Narayan Wagh,Narayan,Female,ST,7938 7504 2277,Bangrwadi,Thane,Thane,Maharashtra,9529461304,jayawagh115@gmail.com,07-08-1997,27,12th,Basic Computer
+260,260,Vinod Prakash Paradhi,Prakash,Male,ST,4044 7668 1841,Pardhwadi,Thane,Thane,Maharashtra,9373222145,vinodpardhi71@gmail.com,15-04-2000,25,12th,Basic Computer
+261,261,Dipak Bhagwan Sable,Bhagwan,Male,ST,2935 1627 350,Jaigaon,Thane,Thane,Maharashtra,9356737583,sabledipak20@gmail.com,22-05-2006,18,12th,Basic Computer
+262,262,Omprakash  Laxman  Pardhi,Laxman,Male,ST,9848 0199 0040,Mohwadi,Thane,Thane,Maharashtra,8888719238,omprakashpardhi11@gmail.com,18-12-2004,21,12th,Basic Computer
+263,263,Nikhil Raghunath Kevhari,Raghunath,Male,ST,2084 7800 0000,Kochre,Thane,Thane,Maharashtra,9356737583,nikhilk138@gmail.com,08-12-2001,24,12th,Basic Computer
+264,264,Laxman Gautam Wagh,Gautam,Male,ST,4419 3086 8868,Dhasai,Thane,Thane,Maharashtra,7499563560,waghkishor@gmail.com,16-06-1996,28,12th,Basic Computer
+265,265,Rekha Mahadu Nirguda,Mahadu,Female,ST,5747 2880 8453,Mal,Thane,Thane,Maharashtra,8975957954,rekhanirguda32@gmail.com,03-05-2002,23,12th,Basic Computer
+266,266,Lata Manchindra Burse,Burse,Female,ST,3535 0439 2298,Chinchpada,Thane,Thane,Maharashtra,9594265999,lata@gmail.com,04-05-1998,27,12th,Basic Computer
+267,267,Rupali Balu Dangre,Balu,Female,ST,5053 3662 2307,Chinchpada,Thane,Thane,Maharashtra,9655471250,rupali@gmail.com,15-05-2003,23,12th,Basic Computer
+268,268,Chanda Vivek Gedam,Vivek,Female,ST,7079 4122 9055,Chinchpada,Thane,Thane,Maharashtra,8899554462,chanda@gmail.com,05-04-1988,37,12th,Basic Computer
+269,269,Arti Sagar Falke,Sagar,Female,ST,8646 2667 1796,Chinchpada,Thane,Thane,Maharashtra,9766354821,arti@gmail.com,07-05-1991,34,12th,Basic Computer
+270,270,Monali Parvin Kachare,Pravin,Female,ST,2210 8196 7708,Chinchpada,Thane,Thane,Maharashtra,7052698115,monali@gmail.com,14-05-1997,28,12th,Basic Computer
+271,271,Siddharth Gopinath Gaikwad,Gopinath,Male,SC,7435 1233 4964,At Umbarpada Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9168723121,siddugaikwad@gmail.com,28-02-2000,25,12th,Basic Typing
+272,272,Sahil Jaywant Shewale,Jaywant,Male,SC,9093 3638 4196,At Shiroshi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,7517694893,shewalesahal0@gmail.com,02-09-2002,23,12th,Basic Typing
+273,273,Shraddha Kishor Channe,Kishor,Female,SC,4638 7191 914,At Gegaon Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,7666744592,kishorchhane@gmailcom,03-03-2003,22,12th,Basic Typing
+274,274,Siddharth Tanaji Desale,Tanaji,Male,SC,5855 6878 9846,At Maniwali Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,7743808638,siddharth@gmail.com,30-11-1998,27,12th,Basic Typing
+275,275,Akansha Aakash Desale,Aakash,Female,SC,3781 6723 0698,At Maniwali Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8080637342,aakanshadesale@gmail.com,04-09-1998,27,12th,Basic Typing
+276,276,Prasad Vishwas Channe,Vishwas,Male,SC,7381 1498 3586,At Gegaon Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8805234983,prasadchanne31@gmail.com,02-07-2001,24,12th,Basic Typing
+277,277,Rutik Tanaji Desale,Tanaji,Male,SC,9559 3176 1087,At Maniwali Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9594136735,desalerutik@yahoo.com,30-11-2000,25,12th,Basic Typing
+278,278,Somanath  Kantaram Desale,Kantaram,Male,SC,2521 8301 3412,At Maniwali Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8856891371,somsnsthdesale@gmail.com,10-11-2004,21,12th,Basic Typing
+279,279,Subhash Dinesh Pawar,Dinesh,Male,SC,8589 5562 8005,At Pendhri Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9370382527,subhash2022@gmail.com,09-12-2000,25,12th,Basic Typing
+280,280,Saurav Tukaram Desale,Tukaram,Male,SC,7977 7437 8730,At Maniwali Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,7550885539,"sauravdesale@g,ail.com",24-08-2005,20,12th,Basic Typing
+281,281,Jitendra Kantilal Thorat,Kantilal,Male,SC,6943 8549 3380,At Maniwali Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9325930221,jituthorat@gmail.com,09-12-2001,24,12th,Basic Typing
+282,282,Rohit Laxman Patole,Laxman,Male,SC,2534 6874 4832,At Balegaon Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9082931422,patolerohit30@gmail.com,05-08-1996,29,12th,Basic Typing
+283,283,Kajal Dipak Ghaghanv,Dipak,Female,SC,3554 6469 4151,At Pendhri Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9359238924,ghanghavkajal@gmail.com,28-09-2001,24,12th,Basic Typing
+284,284,Suraj Dipak Ghanghav,Dipak,Male,SC,4436 9585 5605,At Talegaon Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8329008146,surajghanghav12@gmail.com,27-08-1996,29,12th,Basic Typing
+285,285,Sahil Prakash More,Prakash,Male,SC,9635 5842 7366,At Fangane Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8329557691,sahilmore@gmail.com,17-08-2006,19,12th,Basic Typing
+286,286,Swapnil Narayan Jadhav,Narayan,Male,SC,5819 0558 2367,At Tokawade Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,7507743157,swapniljadhav@gmail.com,20-01-1990,35,12th,Basic Typing
+287,287,Rutik Gautam More,Gautam,Male,SC,3715 4585 3347,At Talegaon Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9356071130,princemore2024@gmail.com,30-07-2002,23,12th,Basic Typing
+288,288,Sandesh Sudam Thorat,Sudam,Male,SC,8346 9442 0048,At Talegaon Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9326451462,sandeshthorat@gmail.com,15-06-2006,19,12th,Basic Typing
+289,289,Shubham Hari Thorat,Hari,Male,SC,6041 4909 3597,At Chasole Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,92722700717,shubhamthorat@gmail.com,19-07-1994,31,12th,Basic Typing
+290,290,Sandesh Ramesh Gaikwad,Ramesh,Male,SC,4249 9953 9517,At Maniwali Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8767939787,gaikwadsandesh@gmail.com,22-12-2004,23,12th,Basic Typing
+291,291,Ganesh Daulat Gaikwad,Daulat,Male,SC,7041 4245 8314,At Balegaon Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9137510343,ganeshgaikwad@gmail.com,02-08-1996,29,12th,Basic Typing
+292,292,Manoj Mukund Tapase,Mukund,Male,SC,6499 0427 3821,At Pendhri Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9370207062,manojtapase201@gmail.com,24-03-1992,33,12th,Basic Typing
+293,293,Mukesh Bhau Tapase,Bhau,Male,SC,5548 4813 9065,At Eklhre Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,7972456405,mukesahtapase@gmail.com,27-08-2002,23,12th,Basic Typing
+294,294,Avinash Tukaram Thorat,Tukaram,Male,SC,3139 2573 7605,At Ambiwli Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,7620941599,avithorat1999@gmail.com,26-06-1996,31,12th,Basic Typing
+295,295,Sandesh Kaluramthorat,Kaluram,Male,SC,3078 8783 0402,At Ambiwli Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9022728286,sandeshthorat@gmail.com,31-03-1999,26,12th,Basic Typing
+296,296,Siddharth Bajirao Malve,Bajirao,Male,SC,3854 2218 0204,Art Kudawli Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9579404244,siddharthmalve@gmail.cpom,06-07-1999,26,12th,Basic Typing
+297,297,Chetan Anant Badge,Anant,Male,SC,9357 4783 6412,At Maniwali Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8857063018,chetanbadge@gmail.com,02-12-1997,25,12th,Basic Typing
+298,298,Prathmesh Dhanaji Bhalerao,Dhanaji,Male,SC,8451 1154 2257,At Chasole Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9511261481,prtmeshbhalerao@gmail.com,18-02-2003,24,12th,Basic Typing
+299,299,Kalpesh Dhanaji Bhalerao,Dhanaji,Male,SC,5127 3863 0438,At Chasole Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9579592503,kalpeshbhalerao222@gmail.com,26-01-2001,24,12th,Basic Typing
+300,300,Jagdish Kantilal Thorat,Kantilal,Male,SC,5449 1838 2434,At Maniwali Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9325401116,thoratjaguu321@gmail.com,01-01-1998,29,12th,Basic Typing
+301,301,Kamal Pintu Shende,Pintu,Female,ST,3421 2031 6227,At Maniwali Fdisty Thane Tal Murbad,Murbad,Thane,Maharashtra,9022872601,kamalshende@gmail.com,28-04-1988,38,12th,Jewellery Making
+302,302,Kunal Raghunath Mengal,Raghunath,Male,ST,3456 5664 3836,At Dhasai Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8412939373,mengalkunal@gmail.com,05-05-2003,22,12th,Jewellery Making
+303,303,Rajesh Soma Khakar,Soma,Male,ST,8888 2217 7589,At Shisewadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9309553457,rajeshkhakar@gmail.com,06-08-2006,20,12th,Jewellery Making
+304,304,Nikita Keshav Wagh,Keshav,Female,ST,6010 5088 0963,At Shisewadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9359537273,nikitawagh@gmail.com,20-03-2006,20,12th,Jewellery Making
+305,305,Vaibhav Vinayak Nirguda,Vinayak,Male,ST,5716 9770 9079,At Kewarwadi Tal Murbad Dist Thane,Murbad,Thane,Maharashtra,8767315469,vaibhavnirguda11@gmail.com,04-02-2004,22,12th,Jewellery Making
+306,306,Barko Aalo Wagh,Aalo,Male,ST,8459 3268 4483,At Zadhghar Distn Thane Tal Murbad,Murbad,Thane,Maharashtra,9273524857,barkowagh21@gmail.com,08-02-1987,39,12th,Jewellery Making
+307,307,Kanta Balu Shid,Balu,Female,ST,4496 6599 5962,At Sukalwadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8080560382,kantashid@gmail.com,16-07-2004,22,12th,Jewellery Making
+308,308,Pankaj Balu Shid,Balu,Male,ST,3038 6657 4492,At Sukalwadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9226502490,shidpankaj03@gmail.com,02-07-2007,18,12th,Jewellery Making
+309,309,Kamal Sachin Bangara,Sachin,Female,ST,9715 3254 4764,At Dongrwadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9529409737,kamalbangara20011@gmail.com,21-03-1999,27,12th,Jewellery Making
+310,310,Kavita Laxman Nirguda,Laxman,Female,ST,5802 7875 7825,At Maal Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,7038481376,kavitanirguda@gmail.com,20-04-2002,23,12th,Jewellery Making
+311,311,Amol Waman Khakar,Waman,Male,ST,7191 9642 3996,At Talegaon Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8080623072,khakaramol@gmail.com,13-06-2002,23,12th,Jewellery Making
+312,312,Tushar Waman Pardhi,Waman,Male,ST,6799 3186 4114,At Talegaon Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8830582268,pardhitushar221@gmail.com,27-08-1999,26,12th,Jewellery Making
+313,313,Girish Ramesh Khakar,Ramesh,Male,ST,5051 5462 1712,Atshirsonwadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8275269244,girishkhakar19@gmail.com,16-06-2006,19,12th,Jewellery Making
+314,314,Madhukar Dhau Wagh,Dhau,Male,ST,5962 0207 0389,At Shisewadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8766903345,madhukarwagh11@gmail.com,23-03-1984,41,12th,Jewellery Making
+315,315,Sandip Dashrath Wagh,Dashrath,Male,ST,4998 2194 8006,At Kochre Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9309467968,waghsandip11@gmail.com,07-06-2005,18,12th,Jewellery Making
+316,316,Vishwas Dilip Nirguda,Dilip,Male,ST,3413 1832 6397,At Kochre Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,7744913165,nirgudavishwas21@gmail.com,05-09-2006,19,12th,Jewellery Making
+317,317,Vishal Narayan Shid,Narayan,Male,ST,8180 9085 3084,At Kochre Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8788725818,vishalshid@gmail.com,01-02-2006,20,12th,Jewellery Making
+318,318,Ramesh Jagan Kavate,Jagan,Male,ST,3051 0864 2414,At Dongrwadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8459400374,rameshkavate22@gmail.com,17-06-2000,25,12th,Jewellery Making
+319,319,Swapnali Swapnil Jadhav,Swapnil,Female,ST,4676 9099 7654,At Tokawade Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,7507743157,rahulsandhya2320@gmail.com,23-05-1990,35,12th,Jewellery Making
+320,320,Jaywant Dhau Wagh,Dhau,Male,ST,2532 4528 0735,At Shisewadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,7499396347,jaywantwagh@gmail.com,N/A,39,12th,Jewellery Making
+321,321,Anita Barku Wagh,Barku,Female,ST,8279 1056 7045,At Zadhghar Distn Thane Tal Murbad,Murbad,Thane,Maharashtra,9404576957,anitawagh22@gmail.com,13-12-1994,31,12th,Jewellery Making
+322,322,Reshma Madhukar Wagh,Madhukar,Female,ST,5398 5053 9093,At Shisewadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,7499396347,reshmawagh2102@gmail.com,14-12-2008,18,12th,Jewellery Making
+323,323,Vitthal Hari Nirguda,Hari,Male,ST,2474 5974 3150,At Shisewadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9699775807,vitthalnirguda@gmail.com,03-07-2006,20,12th,Jewellery Making
+324,324,Shankar Maruti Hambir,Maruti,Male,ST,4988 8690 0176,Bhikarwadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9021162285,shankarhambir@gmail.com,08-05-2002,24,12th,Jewellery Making
+325,325,Vanita Ramesh Kavate,Ramesh,Female,ST,7414 4177 1669,At Dongrwadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8459400374,kavatevanita11@gmail.com,14-05-2005,20,12th,Jewellery Making
+326,326,Pradip Nathu Pardhi,Nathu,Male,ST,3212 1533 7764,At Karptwadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,9699244798,pradippardhi@gmail.com,17-01-2005,21,12th,Jewellery Making
+327,327,Kavita Namdev Wagh,Namdev,Female,ST,4320 9461 0078,At Zadhghar Distn Thane Tal Murbad,Murbad,Thane,Maharashtra,9834631809,kamalwagh@gmail.com,28-11-2003,23,12th,Jewellery Making
+328,328,Narayn Daulat Khodka,Daulat,Male,ST,8542 3163 4515,At Pendhri Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8010874913,naraynkhodka11@gmail.com,17-04-2006,20,12th,Jewellery Making
+329,329,Mahesh Nathu Pardhi,Nathu,Male,ST,3866 1112 8120,At Karpatwadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8080524089,maheshpardhi@gmail.com,05-10-2006,20,12th,Jewellery Making
+330,330,Rekha Mahadu Nirguda,Mahadu,Female,ST,5747 2880 8453,At Sukalwadi Dist Thane Tal Murbad,Murbad,Thane,Maharashtra,8999078470,rekhnirgud@gmail.com,03-05-2002,24,12th,Jewellery Making
+331,331,Ranjana Dashraath Khadke,Dashrath,Female,ST,5227 9648 6182,At Talegaon,Thane,Thane,Maharashtra,9021171120,ranjanakhadake4@gmail.com,25-04-2005,20,Graduate,Basic Computer
+332,332,Rohit Somnath Bhangre,Somnath,Male,ST,6737 7715 2787,Barwwadi,Thane,Thane,Maharashtra,9021171120,omprakashpardhi11@gmail.com,18-04-2005,20,12th,Basic Computer
+333,333,Divya Laxman Pardhi,Laxman,Male,ST,8940 1593 6229,Mohwadi,Thane,Thane,Maharashtra,7798636516,gawaripratiksha8@gmail.com,07-12-2006,19,Graduate,Basic Computer
+334,334,Umesh Kamalu Bhala,Kamalu,Male,ST,2900 0447 6787,Tokawade,Thane,Thane,Maharashtra,8010430147,umeshbhala48@gmail.com,25-05-2006,19,12th,Basic Computer
+335,335,Ganesh Vithal Barmade,Vitthal,Male,ST,4612 0795 5283,Shenit,Thane,Thane,Maharashtra,8888719238,ganeshbarmade@gmail.com,02-08-2005,19,12th,Basic Computer
+336,336,Sunanda Dattaray Vare,Dattatatray,Female,ST,5179 0789 0531,Singapur,Thane,Thane,Maharashtra,902144587,varesunanda06@gmail.com,06-10-1983,42,12th,Basic Computer
+337,337,Nita Krushna Shid,Krushna,Female,ST,5696 7061 0017,Sukalwadi,Thane,Thane,Maharashtra,8767068474,neetashid@gmail.com,16-05-2000,20,12th,Basic Computer
+338,338,Priyanka Dattu Darawada,Dattu,Female,ST,9882 6509 7127,Durgapur,Thane,Thane,Maharashtra,9834380138,maheshdarvada46@gmail.com,04-02-2003,22,12th,Basic Computer
+339,339,Ratna Mangesh Pardhi,Mangesh,Female,ST,6524 9892 1396,Aawlewadi,Thane,Thane,Maharashtra,9834380138,ratnapardhi@gmail.con,04-03-1998,26,10th,Basic Computer
+340,340,Poonam Bhaskar Mengal,Bhaskar,Female,ST,9521 4703 4704,Sukalwadi,Thane,Thane,Maharashtra,8999078470,bhalapallavi5@gmail.com,21-07-2004,21,12th,Basic Computer
+341,341,Pallavi Ashok Bhala,Ashok,Female,ST,5392 9546 3682,Sukalwadi,Thane,Thane,Maharashtra,8999078470,bhalapallavi5@gmail.com,04-04-2006,18,12th,Basic Computer
+342,342,Ravi Mangesh Pardhi,Mangesh,Male,ST,5522 3928 4963,Aawlewadi,Thane,Thane,Maharashtra,9322387311,ravipardhi@gmail.com,07-12-2000,18,12th,Basic Computer
+343,343,Nilam Sainath Bhonde,Sainath,Female,ST,8908 4470 0550,Bhiwandi ,Thane,Thane,Maharashtra,9725660411,nilam@gmail.com,10-08-1992,33,12th,Basic Computer
+344,344,Ravindra Vitthal Mengal,Vitthal,Male,ST,3673 7360 7605,Goregaon,Thane,Thane,Maharashtra,7057232888,ravindramengal@gmail.com,23-01-2005,20,10th,Basic Computer
+345,345,Jyostna Ragho Shid,Ragho,Female,ST,8330 8901 6587,Mal,Thane,Thane,Maharashtra,935901517,umeshhshid6@gmail.com,01-08-2001,24,12th,Basic Computer
+346,346,Umesh Ragho Shid,Ragho,Male,ST,4018 6031 0909,Mal,Thane,Thane,Maharashtra,935901557,umeshshid6@gmail.com,25-02-2003,22,10th,Basic Computer
+347,347,Jayram Bhaskar Khakar,Bhaskar,Male,ST,3751 8427 0158,Dongrwadi,Thane,Thane,Maharashtra,8080106846,jayramkhakar458@gmail.com,18-12-2002,22,12th,Basic Computer
+348,348,Asha Sursesh Wagh,Suresh,Male,ST,3330 4648 9173,Khutarwadi,Thane,Thane,Maharashtra,9529397820,ashawagh05@gmail.com,26-05-2003,22,12th,Basic Computer
+349,349,Jaya Narayan Wagh,Narayan,Female,ST,7938 7504 2277,Bangrwadi,Thane,Thane,Maharashtra,9529461304,jayawagh115@gmail.com,07-08-1997,27,12th,Basic Computer
+350,350,Vinod Prakash Paradhi,Prakash,Male,ST,4044 7668 1841,Pardhwadi,Thane,Thane,Maharashtra,9373222145,vinodpardhi71@gmail.com,15-04-2000,25,12th,Basic Computer
+351,351,Dipak Bhagwan Sable,Bhagwan,Male,ST,2935 1627 350,Jaigaon,Thane,Thane,Maharashtra,9356737583,sabledipak20@gmail.com,22-05-2006,18,12th,Basic Computer
+352,352,Omprakash  Laxman  Pardhi,Laxman,Male,ST,9848 0199 0040,Mohwadi,Thane,Thane,Maharashtra,8888719238,omprakashpardhi11@gmail.com,18-12-2004,21,12th,Basic Computer
+353,353,Nikhil Raghunath Kevhari,Raghunath,Male,ST,2084 7800 0000,Kochre,Thane,Thane,Maharashtra,9356737583,nikhilk138@gmail.com,08-12-2001,24,12th,Basic Computer
+354,354,Laxman Gautam Wagh,Gautam,Male,ST,4419 3086 8868,Dhasai,Thane,Thane,Maharashtra,7499563560,waghkishor@gmail.com,16-06-1996,28,12th,Basic Computer
+355,355,Rekha Mahadu Nirguda,Mahadu,Female,ST,5747 2880 8453,Mal,Thane,Thane,Maharashtra,8975957954,rekhanirguda32@gmail.com,03-05-2002,23,12th,Basic Computer
+356,356,Lata Manchindra Burse,Burse,Female,ST,3535 0439 2298,Chinchpada,Thane,Thane,Maharashtra,9594265999,lata@gmail.com,04-05-1998,27,12th,Basic Computer
+357,357,Rupali Balu Dangre,Balu,Female,ST,5053 3662 2307,Chinchpada,Thane,Thane,Maharashtra,9655471250,rupali@gmail.com,15-05-2003,23,12th,Basic Computer
+358,358,Chanda Vivek Gedam,Vivek,Female,ST,7079 4122 9055,Chinchpada,Thane,Thane,Maharashtra,8899554462,chanda@gmail.com,05-04-1988,37,12th,Basic Computer
+359,359,Arti Sagar Falke,Sagar,Female,ST,8646 2667 1796,Chinchpada,Thane,Thane,Maharashtra,9766354821,arti@gmail.com,07-05-1991,34,12th,Basic Computer
+360,360,Monali Parvin Kachare,Pravin,Female,ST,2210 8196 7708,Chinchpada,Thane,Thane,Maharashtra,7052698115,monali@gmail.com,14-05-1997,28,12th,Basic Computer
+361,361,Shubhangi Nitin Dhangar, Nitin Dhangar,Female ,SC,4830 0865 9092,"At. Ambele, Post. Shivale, Tal. Murbad ",Murbad,Thane,Maharashtra,7276885603,shubhangi05@gmail.com,02-05-1992,33,Graduate,Aari Work
+362,362,Usha Nilesh Tapase, Nilesh Tapase,Female ,SC,4477 3502 8755,"At. Ambele, Post. Shivale, Tal. Murbad ",Murbad,Thane,Maharashtra,9579099501,usha10@gmail.com,06-10-1990,35,8th,Aari Work
+363,363,Varsha Pravin Dhangar, Pravin Dhangar,Female ,SC,5474 4157 4156,"At. Ambele, Post. Shivale, Tal. Murbad ",Murbad,Thane,Maharashtra,8010436344,varsha18@gmail.com,18-06-1993,32,12th,Aari Work
+364,364,Vaishali Anta Shinde,Anta Shinde,Female ,SC,5413 9936 1404,"At. Ambele, Post. Shivale, Tal. Murbad ",Murbad,Thane,Maharashtra,7823081187,vaishali13@gmail.com,13-11-1986,39,8th,Aari Work
+365,365,Madhuri Dipak Khandagle, Dipak Khandagle,Female ,SC,7412 6404 4617,"At. Post. Shivale, Tal. Murbad ",Murbad,Thane,Maharashtra,8080513004,N/A,N/A,N/A,10th,Aari Work
+366,366,Dhanshree Dilip Jadhav,Dilip Jadhav,Female ,SC,2255 9891 6088,"At. Post. Shivale, Tal. Murbad ",Murbad,Thane,Maharashtra,9307309089,dhanshree17@gmail.com,17-11-2003,22,12th,Aari Work
+367,367,Manisha Dipak Dhangar, Dipak Dhangar,Female ,SC,9254 0430 3502,"At. Dahigaov Post. Shivale, Tal. Murbad ",Murbad,Thane,Maharashtra,9699631567,manisha7@gmail.com,05-07-1989,36,8th,Aari Work
+368,368,Bharati Navnit Dhangar, Navnit Dhangar,Female ,SC,6879 0283 7792,"At. Dahigaov Post. Shivale, Tal. Murbad ",Murbad,Thane,Maharashtra,8805018640,bharati05@gmail.com,05-05-1980,45,10th,Aari Work
+369,369,Karuna Kiran Dhangar,Kiran Dhangar,Female ,SC,4563 5867 9042,"At. Dahigaov Post. Shivale, Tal. Murbad ",Murbad,Thane,Maharashtra,9322321465,karuna6@gmail.com,10-06-1982,43,10th,Aari Work
+370,370,Yogita Akshay Chandane, Akshay Chandane,Female ,SC,2078 2639 4697,"At. Fansoli, Tal. Murbad ",Murbad,Thane,Maharashtra,8261056402,yogita22@gmail.com,22-05-1997,28,12th,Aari Work
+371,371,Savitra Sainath Chandane,Sainath Chandane,Female ,SC,3024 5599 8380,"At. Fansoli, Tal. Murbad ",Murbad,Thane,Maharashtra,7888072314,savitra29@gmail.com,29-10-1984,41,8th,Aari Work
+372,372,Kavita Rajendra Dhangar, Rajendra Dhangar,Female ,SC,8228 3376 2205,"At. Malhed, Post. Shivale, Tal. Murbad ",Murbad,Thane,Maharashtra,9850481743,kavita1@gmail.com,06-01-1987,38,8th,Aari Work
+373,373,Joyti Sharad Ahire, Sharad Ahire,Female ,SC,2205 3528 8216,"At. Devape, Tal. Murbad ",Murbad,Thane,Maharashtra,9209851134,joyti09@gmail.com,01-09-1982,43,10th,Aari Work
+374,374,Madhavi Vilas Malve,Vilas Malve,Female ,SC,7577 5396 3588,"At. Kudavali, Tal. Murbad ",Murbad,Thane,Maharashtra,8767760819,madhavi1@gmail.com,01-01-2002,23,Graduate,Aari Work
+375,375,Kunda Vilas Dhangar,Vilas Dhangar,Female ,SC,8026 8556 6449,"At. Ambele, Post. Shivale, Tal. Murbad ",Murbad,Thane,Maharashtra,9373258707,kunda1@gmail.com,06-01-1981,44,8th,Aari Work
+376,376,Surekha Rajendra,Rajendra,Female ,SC,6855 5625 5666,"At. Post. Shivale, Tal. Murbad ",Murbad,Thane,Maharashtra,7719802580,surekha5@gmail.com,11-05-1981,44,8th,Aari Work
+377,377,Arati Vinayak Jadhav,Vinayak Jadhav,Female ,SC,8636 3089 7627,"At. Post. Shivale, Tal. Murbad ",Murbad,Thane,Maharashtra,8002012120,arati25@gmail.com,25-08-1992,33,12th,Aari Work
+378,378,Harshada Balaram Ahire, Balaram Ahire,Female ,SC,2682 7054 4191,"At. Devgaov, Tal. Murbad ",Murbad,Thane,Maharashtra,7887752843,harshada10@gmail.com,09-10-2003,22,Graduate,Aari Work
+379,379,Vaishali Vikas Gaikar,Vikas Gaikar,Female ,SC,5216 5269 5571,At. Sonarpada Tal. Murbad ,Murbad,Thane,Maharashtra,8080844074,vaishali03@gmail.com,04-03-1994,31,12th,Aari Work
+380,380,Vimal Sanjay Ubale,Sanjay Ubale,Female ,SC,7023 5378 3654,"At.Khandare. Shivale, Tal. Murbad ",Murbad,Thane,Maharashtra,9022705032,vimal25@gmail.com,25-10-1982,43,10th,Aari Work
+381,381,Sangita Ravindra Jadhav,Ravindra Jadhav,Female ,SC,4788 9822 211,"At. Post. Shivale, Tal. Murbad ",Murbad,Thane,Maharashtra,8779387507,sangita30@gmail.com,30-10-1980,45,12th,Aari Work
+382,382,Namrata Ajay Bhawar, Ajay Bhawar,Female ,SC,9031 7090 5048,"At. Devape, Tal. Murbad ",Murbad,Thane,Maharashtra,8080966028,namrata30@gmail.com,30-11-1980,45,Graduate,Aari Work
+383,383,Swati Avinash Bhavar ,Avinash Bhavar ,Female ,SC,3181 2309 5865,"At. Devape, Tal. Murbad ",Murbad,Thane,Maharashtra,9373683922,swati21@gmail.com,21-04-1991,34,10th,Aari Work
+384,384,Pranali Pradip Ughade,Pradip Ughade,Female ,SC,6704 9562 9205,"At.Khandare. Shivale, Tal. Murbad ",Murbad,Thane,Maharashtra,9372299615,pranali24@gmail.com,24-05-1999,26,10th,Aari Work
+385,385,Sushama Sanjay Bhawar,Sanjay Bhawar,Female ,SC,9493 8705 5663,"At. Devape, Tal. Murbad ",Murbad,Thane,Maharashtra,7768951735,sushama29@gmail.com,29-07-1979,46,10th,Aari Work
+386,386,Manisha Subhas Bhawar,               Subhas Bhawar,Female ,SC,7922 4991 0062,"At. Devape, Tal. Murbad ",Murbad,Thane,Maharashtra,9370740233,manisha1@gmail.com,05-01-1983,42,10th,Aari Work
+387,387,Madhuri Suresh Jadhav,                 Suresh Jadhav,Female ,SC,8309 6548 7406,"At. Tembhare, Tal. Murbad ",Murbad,Thane,Maharashtra,8767374268,madhuri15@gmail.com,15-08-1996,29,10th,Aari Work
+388,388,Pooja Rajendra Dhangar,               Rajendra Dhangar,Female ,SC,3804 6875 3878,"At. Post. Shivale, Tal. Murbad ",Murbad,Thane,Maharashtra,7721813591,pooja12@gmail.com,09-12-1999,26,Graduate,Aari Work
+389,389,Minal Adik Bhawar,                  Adik Bhawar,Female ,SC,8145 6947 6852,"At. Devape, Tal. Murbad ",Murbad,Thane,Maharashtra,7499665626,minal11@gmail.com,11-11-1995,30,12th,Aari Work
+390,390,Dikshita Nitin Bharade,                 Nitin Bharade,Female ,SC,5739 7595 6794,"At. Maal, Post . Shoroshi Tal. Murbad ",Murbad,Thane,Maharashtra,8983744890,dikshita22@gmail.com,22-11-2001,24,12th,Aari Work
+391,391,Shakshi Ananta Bhalerao,Ananta Bhalerao ,Female ,SC,8003 1342 2488,"Ambegav,Post Mhasa ",Murbad,Thane,Maharashtra,9607423304,shakshibhalerao@gamil .com,28-03-2023,N/A,12th,Aari Work 
+392,392,Radhika Suresh Jadhav,Suresh Jadhav,Female ,SC,7589 4824 4361,"Rohidasvada,Murbad",Murbad,Thane,Maharashtra,9405488143,radhikajadhav44@gamil,07-05-1998,N/A,12th,Aari Work 
+393,393,Lata Kaluram Jadhav ,Kaluram Jadhav ,Female ,SC,5749 0753 0698,"Rohidasvada,Murbad",Murbad,Thane,Maharashtra,9922378015,latakaluram@gamil.com,N/A,N/A,10th,Aari Work 
+394,394,Rakhi Shivaji Malve,Shivaji Malve,Female ,SC,2153 4990 3123,"Kudavli,Murbad",Murbad,Thane,Maharashtra,9022677916,rakhimalve@gamil.com,02-07-2002,N/A,12th,Aari Work 
+395,395,Nita Rakesh Gaykwad ,Rakesh Gaikwad ,Female ,SC,3678 6057 0961,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,9272556830,nitarakesh123@gamil.com,N/A,N/A,10th,Aari Work 
+396,396,Anmol Sham Candane,Sham Chandane,Female ,SC,8797 2431 9337,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,9890300862,anmolsham@gamil.com,09-04-1993,N/A,12th,Aari Work 
+397,397,Diksha Laxman Bansode,Laxuman Bansode,Female ,SC,2273 9611 9171,"Patagav,Tal ,Murbad",Murbad,Thane,Maharashtra,8755931560,dikshabansode@gamil.com,31-05-2005,N/A,12th,Aari Work 
+398,398,Suvrna Tukaram Bhoir,Tukaram Bhoire,Female ,SC,7664 6854 4643,"Sarlgav ,Murbad",Murbad,Thane,Maharashtra,8551972729,suvrnabhoir34@gamil.vom,04-02-1985,N/A,12th,Aari Work 
+399,399,Minakshi Rajesh Jadhav,Rajesh Jadhav,Female ,SC,N/A,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,7875658212,N/A,06-01-1977,N/A,10th,Aari Work 
+400,400,Hemali Ganesh Jadhav,Ganesh Jadhav,Female ,SC,7669 4254 7470,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,9260115253,hemalijadhav@gamil.com,28-05-2001,N/A,12th,Aari Work 
+401,401,Yogini Aatul Jadhav,Aatul Jadhav,Female ,SC,3276 5478 0569,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,9021743520,yoginijadhav@gamil.com,24-03-2003,N/A,12th,Aari Work 
+402,402,Shenha Shubhash Dhangar,Subhash Dhangar,Female ,SC,4424 0942 8942,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,7744908328,N/A,08-12-1982,N/A,10th,Aari Work 
+403,403,Akshada Ganesh Jadhav,Ganesh Jadhav ,Female ,SC,3076 2312 9542,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,8767428144,akshujadhav@gamil.com,11-07-2003,N/A,12th,Aari Work 
+404,404,Gita Shivram Jadhav,Shivram Jadhav,Female ,SC,9047 2576 3083,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,7744908328,gitajadhav33@gamil.com,07-07-1984,N/A,10th,Aari Work 
+405,405,Svita Sadhashiv Jadhav,Sadashiv Jadhav,Female ,SC,6135 8920 4129,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,7020993990,savitajadhav@gamil.com,N/A,N/A,8th,Aari Work 
+406,406,Pornima Ankush Jadhav ,Ankush Jadhav ,Female ,SC,4618 5773 8871,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,8806098805,pornimajadhav77@gamil.com,22-07-1994,N/A,Graduate,Aari Work 
+407,407,Gaytri Vinod Jadhav,Vinod Jadhav,Female ,SC,7034 8496 2650,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,9284188425,N/A,04-08-2002,N/A,10th,Aari Work 
+408,408,Neha Shivram Jadhav,Shivaram Jadhav,Female ,SC,6847 2765 8655,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,7620186404,nehajadhav@gamil.com,04-02-2002,N/A,12th,Aari Work 
+409,409,Shardha Gurunath Jadhav,Gurunath Jadhav,Female ,SC,5034 5714 2818,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,7709052121,saradhajadav@gamil.com,06-06-2001,N/A,12th,Aari Work 
+410,410,Sancita Santosh Jadhav,Santosh Jadhav,Female ,SC,8230 7434 5192,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,9527594122,sanchitajadhav @amil.com,09-12-2006,N/A,12th,Aari Work 
+411,411,Harsha Janu Jadhav ,Janu Jadhav,Female ,SC,5185 8661 8027,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,8806098805,harshajadhav@gamil.com,17-09-2006,N/A,12th,Aari Work 
+412,412,Swati Sadashiv Jadhav,Sadashiv Jadhav,Female ,SC,3883 5090 8537,"Rohidasvada,Murbad",Murbad,Thane,Maharashtra,8459531447,swatijadhv@gamil.com,15-03-1999,N/A,12th,Aari Work 
+413,413,Ankita Shivram Jadhav,Shivram Jadhav,Female ,SC,9228 7537 8867,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,9270080347,ankitajadhav889@gamil.com,30-04-2003,N/A,Graduate,Aari Work 
+414,414,Nayna Mahadu Jadhav,Mahadi Jadhav,Female ,SC,2780 1628 1586,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,9922378015,naynajafhav@gaml.com,03-06-2002,N/A,Graduate,Aari Work 
+415,415,Aamruta Kaluram Jadhav,Kaluram Jadhav,Female ,SC,4776 4310 1484,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,9922378015,aamrutajadhav@gamil.com,20-06-2006,N/A,12th,Aari Work 
+416,416,Tejal Aarun Gavli,                Aarun Gavli,Female ,SC,9696 0449 0600,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,8440445244,tejalgavli44@gamil.com,19-11-1998,N/A,12th,Aari Work 
+417,417,Sonali Sanjay Gavli,                Sanjay Gavli,Female ,SC,9122 4968 7977,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,8440524452,sonalidi777@gamil.com,12-10-1994,N/A,12th,Aari Work 
+418,418,Dhanshri Nitesh Nagotekar,           Nitesh Nagotekar,Female ,SC,5798 3518 3737,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,8446244524,dhanshri1995@gmail.com,09-08-1995,N/A,10th,Aari Work 
+419,419,Sunanda Rajiv Candane ,            Rajiv Chandane,Female ,SC,7078 6543 4434,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,9623023894,sunanada1988@gmail.com,25-11-1988,N/A,10th,Aari Work 
+420,420,Vaishnavi Naresh Gaykwad ,            Naresh Gaykwad,Female ,SC,N/A,"Rohidasvada, Murbad ",Murbad,Thane,Maharashtra,9755860015,vaishnavi1992@gmail.com,30-07-1992,N/A,10th,Aari Work 
+421,421,Janavhi Kamble,Prabhakar,Female,SC,6823 5892 3352,Ambernath,Ambernath,Thane,Maharashtra,7776823730,N/A,08-04-2008,17,10th,Jewellery
+422,422,Shubhangi Mandolikar,Shivanand,Female,SC,7316 1873 9378,Ambernath,Ambernath,Thane,Maharashtra,7499299742,N/A,14-10-1998,27,12th,Jewellery
+423,423,Deepali Kharat,Shashikant,Female,SC,3275 9188 8978,Ambernath,Ambernath,Thane,Maharashtra,8625918199,N/A,20-10-1987,38,10th,Jewellery
+424,424,Meena Jadhav,Santosh,Female,SC,3805 2471 0004,Ambernath,Ambernath,Thane,Maharashtra,8208143207,N/A,25-03-1983,42,12th,Jewellery
+426,426,Avantika Kamble,Ishwar,Female,SC,2385 4335 5885,Ambernath,Ambernath,Thane,Maharashtra,7350229752,N/A,07-07-2002,23,N/A,Jewellery
+427,427,Neha Satpute,Bhagwan,Female,SC,3167 1205 8863,Ambernath,Ambernath,Thane,Maharashtra,9518503442,N/A,25-04-1997,28,Graduate,Jewellery
+428,428,Anisha Inamdar,Rajesh,Female,SC,2952 6649 6628,Ambernath,Ambernath,Thane,Maharashtra,9967311374,N/A,18-08-2006,19,12th,Jewellery
+429,429,Bhumika Bhandge,Sanjay,Female,SC,3115 6737 4889,Ambernath,Ambernath,Thane,Maharashtra,9604562036,N/A,02-07-2004,21,12th,Jewellery
+430,430,Anvesha Kakde,Gautam,Female,SC,6775 4655 4005,Ambernath,Ambernath,Thane,Maharashtra,9324098234,N/A,09-09-2005,20,12th,Jewellery
+431,431,Priya Sangolika,Mallappa,Female,SC,5971 5551 5644,Ambernath,Ambernath,Thane,Maharashtra,8080190977,N/A,20-06-1995,30,Graduate,Jewellery
+433,433,Ashwini Gaste,Anil,Female,SC,4322 6219 0457,Ambernath,Ambernath,Thane,Maharashtra,7083384022,N/A,01-01-1995,30,10th,Jewellery
+434,434,Sakshi Parkhe,Raju,Female,SC,4956 6351 1263,Ambernath,Ambernath,Thane,Maharashtra,9561181823,N/A,11-02-2002,23,12th,Jewellery
+435,435,Varsha Shinde,Vilas,Female,SC,3068 0954 3135,Ambernath,Ambernath,Thane,Maharashtra,7350421931,N/A,19-04-1994,31,12th,Jewellery
+436,436,Sunita Honkeri,Shrikant,Female,SC,8648 4288 4711,Ambernath,Ambernath,Thane,Maharashtra,9930952020,N/A,01-06-1988,37,8th,Jewellery
+437,437,Pranali Gaikwad,Chandrabhan,Female,SC,2670 4635 4993,Ambernath,Ambernath,Thane,Maharashtra,9096306629,N/A,02-04-2002,23,Graduate,Jewellery
+438,438,Archana Wagh,Daulat,Female,SC,7224 0427 9015,Ambernath,Ambernath,Thane,Maharashtra,9890217557,N/A,27-01-1990,35,10th,Jewellery
+439,439,Smita Shinde,Mukund,Female,SC,9098 8632 6976,Ambernath,Ambernath,Thane,Maharashtra,9175884039,N/A,04-01-1993,29,10th,Jewellery
+440,440,Babli Dole,Naresh,Female,SC,3794 3005 9056,Ambernath,Ambernath,Thane,Maharashtra,", 9158575367",N/A,29-05-1991,33,10th,Jewellery
+441,441,Roshni Gaikwad,Goutam,Female,SC,8701 4998 0065,Ambernath,Ambernath,Thane,Maharashtra,9968015545,N/A,19-07-1992,32,12th,Jewellery
+442,442,Pradnya Gaikwad,Vishal,Female,SC,9601 9703 8091,Ambernath,Ambernath,Thane,Maharashtra,9867876990,N/A,19-09-1988," ,37",12th,Jewellery
+443,443,Krishma Gaikwad ,Kishor,Female,SC,6044 5115 4963,Ambernath,Ambernath,Thane,Maharashtra,9766024864,N/A,20-12-1993,31,8th,Jewellery
+444,444,Shreedevi Hungund,Yalling,Female,SC,7099 1292 9937,Ambernath,Ambernath,Thane,Maharashtra,8828906740,N/A,21-11-1993,32,12th,Jewellery
+445,445,Saraswati Chimmalagi,Rakesh,Female,SC,4990 9212 0336,Ambernath,Ambernath,Thane,Maharashtra,88302866882,N/A,11-05-1986,39,10th,Jewellery
+446,446,Rajeshree Jadhav ,Sanjay,Female,SC,4111 9893 2125,Ambernath,Ambernath,Thane,Maharashtra,8080088664,N/A,24-09-2001,22,Graduate,Jewellery
+447,447,Shraddha Shikhare,Vitthal,Female,SC,3188 3461 7247, ,Ambernath,Thane,Maharashtra,9969008522,N/A,05-10-1989,36,Graduate,Jewellery
+448,448,Guddi Patole ,Chandrakant,Female,SC,6340 9015 6639,Ambernath,Ambernath,Thane,Maharashtra,N/A,N/A,24-03-1996,29,10th,Jewellery
+449,449,Vaishali Badekar,Rajesh,Female,SC,3817 1407 3684,Ambernath,Ambernath,Thane,Maharashtra,8805909377,N/A,14-06-1995,30,12th,Jewellery
+450,450,Pritee Masale,Deepak,Female,SC,4785 4523 0042,Ambernath,Ambernath,Thane,Maharashtra,9619351817,N/A,03-03-1993,32,12th,Jewellery
+451,451,Akshata Machagar,Ashok,Female,SC,8414 2226 5751,Ambernath,Ambernath,Thane,Maharashtra,9325043361,N/A,24-06-2003,21,Graduate,Jewellery
+453,453,Chandrabhaga Rokade,Sharad,Female,SC,9552 1887 2258,Ambernath,Ambernath,Thane,Maharashtra,9821230675,N/A,02-03-1987,38,12th,Jewellery
+454,454,Shraddha  Waghamare,Nilesh,Female,SC,3442 2622 2626,Ambernath,Ambernath,Thane,Maharashtra,9011580506,N/A,08-01-1990,35,10th,Jewellery
+455,455,Komal Yeul,Baliram,Female,SC,5907 0572 6371,Ambernath,Ambernath,Thane,Maharashtra,7420873457,N/A,28-12-1991,34,12th,Jewellery
+456,456,Komal Pawar,Santosh,Female,SC,8819 8261 0306,Ambernath,Ambernath,Thane,Maharashtra,7506323475,N/A,23-11-1997,28,10th,Jewellery
+457,457,Priyanka Athawale,Uttam,Female,SC,2574 1398 2596,Ambernath,Ambernath,Thane,Maharashtra,8956076034,N/A,12-10-1993,32,10th,Jewellery
+458,458,Sandhya Nikalje,Sachin,Female,SC,7932 7076 224,Ambernath,Ambernath,Thane,Maharashtra,N/A,N/A,25-12-1989,36,12th,Jewellery
+459,459,Jyoti Tupsamundar,Raju,Female,SC,4525 4678 6769,Ambernath,Ambernath,Thane,Maharashtra,7710883317,N/A,03-01-1986,39,Graduate,Jewellery
+460,460,Deepali Salve,Babasaheb,Female,SC,8182 5409 0389,Ambernath,Ambernath,Thane,Maharashtra,8482837220,N/A,20-07-1990,35,12th,Jewellery
+461,461,Swapnali Sawant,Rajendra,Female,SC,9973 9620 6472,Ambernath,Ambernath,Thane,Maharashtra,9960680027,N/A,16-05-1990,35,12th,Jewellery
+462,462,Vaishali Meshram,Prashant,Female,SC,3379 5193 9793,Ambernath,Ambernath,Thane,Maharashtra,8625034667,N/A,29-09-1983,42,10th,Jewellery
+463,463,Anjana Khude,Govind,Female,SC,5958 1836 9321,Ambernath,Ambernath,Thane,Maharashtra,9552107791,N/A,06-05-1987,38,12th,Jewellery
+464,464,Sonali Karnekar,Ashish,Female,SC,3093 5508 4868,Ambernath,Ambernath,Thane,Maharashtra,9860814452,N/A,21-09-1997,28,10th,Jewellery
+467,467,Priyanka Milind Ghaywat,Milind Ghaywat,Female,SC,5090 3325 2951,"A-11, Ward No. 02, Near Samaj Hall, Milind Nagar, Kasara, Khurd, Thane, Maharashtra - 421602",Thane,Thane,Maharashtra,8097283119,priyankaghaywat14@gmail.com,14-05-1988,37,Graduate,Aari Work
+468,468,Nandini Kondaji Bharit,Kondaji Bharit,Female,SC,2752 0718 3631,"W/O: Kondaji Bharit, 179,Samaj Hall, Milind Nagar, Kasara, Shahapur, Tahne, Maharashtra - 421602.",Thane,Thane,Maharashtra,8766749032,nandinibharit22@gmail.com,22-12-1981,44,10th,Aari Work
+469,469,Pratiksha Mohan Jagtap,Mohan Jagtap,Female,SC,8154 2678 0631,"Mu Umbarkon Po Ghoti, Umbarkon, Nashik, Maharashtra, 422402.",Thane,Thane,Maharashtra,8369045617,pratikshajagtap03@gmail.com,09-03-2001,24,10th,Aari Work
+470,470,Sangita Nitin Pawar,Nitin Pawar,Female,SC,6341 5579 7482,"At/Po: Rajur, Taluka Akole, Rajur, Ahmadnagar, Maharashtra -422604.",Thane,Thane,Maharashtra,8805519921,sangitapawar21@gmail.com,21-05-1985,40,8th,Aari Work
+471,471,Punam Jagdish Jagatap,Jagdish Jagatap,Female,SC,4722 0171 4483,"At Nandgaon Sado, Post Talegaon Taluka Igatpuri, Dist, Nashik, Nandgaonsado, Nashik, Maharashtra - 422403.",Thane,Thane,Maharashtra,7875717032,punamjagatap13@gmail.com,13-07-1996,29,Graduate,Aari Work
+472,472,Shanta Chandrakant Pandit,Chandrakant Pandit,Female,SC,5623 3630 2391,"Chandrakant Pandit, Milind Nagar, Ward No. 2, Kasara Bu, Mokhavane, Thane, Maharashtra - 421602.",Thane,Thane,Maharashtra,7499786359,shantapandit03@gmail.com,03-03-1985,40,10th,Aari Work
+473,473,Yogita Yuvraj Jagtap,Yuvraj Jagtap,Female,SC,7053 6042 0786,"C/O: Yuvraj Dharma Jagtap, 65, Milind Nagar, Ward No. 2, Kasara Bu, Mokhavane, Po: Kasara, Thane, Maharashtra - 421602.",Thane,Thane,Maharashtra,8459040957,yogitajagtap29@gmail.com,29-11-1992,33,12th,Aari Work
+474,474,Kavita Anant Shinde,Anant Shinde,Female,SC,8058 8383 1899,"665,Ward No. 06, Shivaji Nagar, Kasara, Thane, Shahapur, Maharashtra - 421602.",Thane,Thane,Maharashtra,9226207041,kavitashinde06@gmail.com,07-06-1994,31,12th,Aari Work
+475,475,Pradnya Avinash Wagh,Avinash Wagh,Female,SC,8698 9674 6782,"C/O: Avinashwagh, 53 Ward No. 4, Ambedkar Nagar, Kasara Khurd, Thane, Maharashtra - 421602.",Thane,Thane,Maharashtra,9146144075,pradnyawagh08@gmail.com,10-08-1999,26,12th,Aari Work
+476,476,Minal Prakash Shinde,Prakash Shinde,Female,SC,6993 5431 5011,"W/O: Prakash Shinde, Near Railway Station, Milind Nagar, Ward No. 2, Kasara, Thane, Shahapur, Maharashtra- 421602.",Thane,Thane,Maharashtra,9352195198,minalshinde12@gmail.com,03-12-1990,35,Graduate,Aari Work
+477,477,Sonali Rajendra Rupvate,Rajendra Rupvate,Female,SC,3590 6759 7701,"C/O: Rajendra Rupvate, Ward No. 5, House 492, Kasara, Samta Nagar, Kasara Khurd, Thane, Mahrashtra - 421602.",Thane,Thane,Maharashtra,N/A,sonalirupvate10@gmail.com,06-10-1988,37,10th,Aari Work
+478,478,Pooja Mayur Kakavipure,Mayur Kakavipure,Female,SC,9218 2784 4383,"738, Ward No. 6, Shivaji Nagar, Kasara, Kasara Khurd, Thane, Maaharshtra - 421602.",Thane,Thane,Maharashtra,9370494843,poojakakavipure15@gmail.com,15-05-2005,20,8th,Aari Work
+479,479,Swapnali Sandip Sonawane,Sandip Sonawane,Female,SC,6924 8551 8472,"W/O: Sandip Sonawane, Ward No.4, Mu.Po. Kasara, Ambedkar Nagar, Kasara Khurd, Thane, Maharashtra - 421602.",Thane,Thane,Maharashtra,7350146939,swapnalisonawane01@gmail.com,06-01-1999,26,10th,Aari Work
+480,480,Kajal Jagannath Sangale ,Jagannath Sangale,Female,SC,5951 5953 8783,"Ward No. 2, Milind Nagar, Kasara, Thane, Mahrashtra - 421602.",Thane,Thane,Maharashtra,8459604010,kajalsangale26@gmail.com,26-07-1997,28,12th,Aari Work
+481,481,Shital Gautam Pandit,Gautam Pandit,Female,SC,5168 8449 5350,"Milind Nagar, Kasara, Thane, Maharashtra - 421602.",Thane,Thane,Maharashtra,8956220239,shitalpandit19@gmail.com,19-09-1990,35,10th,Aari Work
+482,482,Manisha Lalchand Dolas,Lalchand Dolas,Female,SC,6695 0778 4921,"Rbi/159, Ward No.2, Milind Nagar, Kasara, Thane, Maharashtra - 421602.",Thane,Thane,Maharashtra,9209560819,manishadolas20@gmail.com,20-09-1987,38,10th,Aari Work
+483,483,Vaishali Manohar Pandit, Manohar Pandit,Female,SC,5391 1539 2571,"Ward No. 6, Shivaji Nagar, Kasara, Thane, Shahpur, Maharashtra - 421602.",Thane,Thane,Maharashtra,9637223445,vaishalipandit07@gmail.com,01-07-1990,35,8th,Aari Work
+484,484,Lanka Machchindra Jagtap,Machchindra Jagtap,Female,SC,3684 0553 3607,"Machchindra Jagtap, Vihigaon, Po: Vihigaon, Thane, Maharashtra - 421602",Thane,Thane,Maharashtra,8080403419,lankajagtap02@gmail.com,02-02-1994,31,10th,Aari Work
+485,485,Priyanka Kalpesh Pandit,Kalpesh Pandit,Female,SC,2036 4799 6839,"Dr. Baba Saheb Ambedkar Nagar, Ward No. 4, At Post Kasara, Ta Shahpur, Dist Thane, Kasara Khurd, Thane, Maharashtra - 421602.",Thane,Thane,Maharashtra,8088277524,priyankapandit06@gmail.com,01-06-1995,30,10th,Aari Work
+486,486,Mansi Uttam Bharit,Uttam Bharit,Female,SC,8578 8555 4514,"158, Panchshil Nagar, Kasara, Thane, Maharashtra - 421602",Thane,Thane,Maharashtra,8087135324,mansibharit16@gmail.com,16-12-2003,22,10th,Aari Work
+487,487,Jyoti Anant Sonawane, Anant Sonawane,Female,SC,3695 6843 1379,"122, Ward 2, Panchashil Nagar, Kasara, Thane, Maharashtra - 421602.",Thane,Thane,Maharashtra,8208053611,jyotisonawane06@gmail.com,03-06-1986,39,10th,Aari Work
+488,488,Asha Ravindra Kardak,Ravindra Kardak,Female,SC,7026 5334 0048,"W/O: Ravindra Kardak, House No. 175, Ward No. 5, At Post - Kasara, Samta Nagar, Shahapur, Kasara Khurd, Thane, Maharashtra - 421602.",Thane,Thane,Maharashtra,8446916161,ashakardak09@gmail.com,10-09-1988,37,12th,Aari Work
+489,489,Anjali Anant Sonawane,Anant Sonawane,Female,SC,7507 1995 1025,"D/O: Anant Sonawane, 122, Old Mokhavane Road, Panchshil Nagar, Kasara, Thane, Maharashtra - 421602.",Thane,Thane,Maharashtra,9356007244,anjalisonawane22@gmail.com,22-11-2001,24,12th,Aari Work
+490,490,Manisha Manoj Shinde,Manoj Shinde,Female,SC,4753 1563 9274,"W/O: Manoj Shinde, Milind Nagar, Kasara Khurd, Thane, Maharashtra - 421602.",Thane,Thane,Maharashtra,9326974043,manishashinde02@gmail.com,06-02-1984,41,10th,Aari Work
+491,491,Rupali Chandrakant Jadhav,Chandrakant Jadhav,Female,SC,9898 3018 9072,"41, Ward No. 4, Ambedkar Nagar, Mokhavane, Thane, Maharashtra - 421602.",Thane,Thane,Maharashtra,9011446301,rupalijadhav27@gmail.com,27-12-1997,28,12th,Aari Work
+492,492,Pradnya Devidas Ubale,Devidas Ubale,Female,SC,6972 9860 3135,"Milind Nagar, Ward No.2, At/Po- Kasara, Tal- Shahapur, Kasara, Thane, Maharashtra - 421602.",Thane,Thane,Maharashtra,9579449277,pradnyaubale15@gmail.com,15-04-2003,22,10th,Aari Work
+493,493,Sonali Gokul Ubale,Gokul Ubhale,Female,SC,3511 8653 5994,"W/O: Gokul Ubale, At/Po: Mukane, Tal- Igatpuri, Dist- Nashik, Mukane, Nashik, Maharashtra - 422403",Thane,Thane,Maharashtra,7798340700,sonaliubale15@gmail.com,15-11-1990,35,Graduate,Aari Work
+494,494,Archana Prakash Jadhav,Prakash Jadhav,Female,SC,6506 2318 7131,"D/O: Prakash Jadhav, Gangapur Road, Near New Ayukta Office, Malharkhan, Kartavya Nagar, Nashik, Maharashtra - 422002.",Thane,Thane,Maharashtra,7767961308,archanajadhav06@gmail.com,08-06-2000,25,12th,Aari Work
+495,495,Richita Hiraman Manohar,Hiraman Manohar,Female,SC,3829 1069 3838,"209, Phule Nagar, Kasara, Kasara, Thane, Shahapur, Maharashtra - 421602.",Thane,Thane,Maharashtra,8767368334,richitamanohar11@gmail.com,08-11-2002,23,8th,Aari Work
+496,496,Archana Bhgawan Donde,Bhgawan Donde,Female,SC,8522 2604 9256,"94, Dr. Ambedkar Nagar, Ward 04, Kasara, Thane, Maharashtra - 421602.",Thane,Thane,Maharashtra,9373840070,archanadonde01@gmail.com,06-01-1988,37,Graduate,Aari Work
+497,497,Yogita Vaibhav Pawar,Vaibhav Pawar,Female,SC,8417 8228 4996,"Ekadantay Apt, Room No.6, Don Bosko School Marg, Opp. Mohan Plaza Apt. Ganesh Nagar Rameshwadi, Badlapur (W), Thane, Maharashtra- 421503.",Thane,Thane,Maharashtra,9767014924,yogitavaibhavpawar@gmali.com,02-12-1986,39,12th,Tally With Gst 
+498,498,Pratiksha Sanjay Nagare,Sanjay Nagare,Female,SC,3977 4606 2946,"B/11, Bhagirathi Plaza Chs, Kalyan Badlapur Road, Opp. Green Park Soc. Belavali, Badlapur (W), Thane, Maharashtra - 421503.",Thane,Thane,Maharashtra,7066884302,pratikshanagare04@gmail.com,08-04-1998,27,12th,Tally With Gst 
+499,499,Bharati Chandramani Ghodeswar,Ramdas Ghodeswar,Female,SC,5338 9634 7081,"Jagruti Colony, 14 Number Primary School, Ulhasnagar-4, Thane, Maharashtra - 421004.",Thane,Thane,Maharashtra,9096243064,bharatighodeswar700@gmail.com,06-01-1991,34,12th,Tally With Gst 
+500,500,Akanksha Harish Jadhav,Harish Jadhav,Female,SC,3791 0671 8133,"7/2, Sai Krupa Colony, Katemanivali, Near Saibaba Temple Sai Nagar,Kalyan East, Thane, Maharashtra - 421306.",Thane,Thane,Maharashtra,9096124384,jadhavaakanksha09@gmail.com,08-09-2000,25,12th,Tally With Gst 
+501,501,Ashish Shivdas Shinde,Shivdas Shinde,Male,SC,5101 3991 0123,"Bingodham Co.Op Hsg Society, Room No.203, Old Katrap Road, Near Ganesh General Store, Katrap, Badlapur, Thane, Maharashtra - 421503.",Thane,Thane,Maharashtra,8108555620,ashishshinde0201@gmail.com,01-02-2002,23,10th,Tally With Gst 
+502,502,Sujal Sachin Jadhav,Sachin Jadhav,Male,SC,8009 5672 1716,"Bhoisavare, Badlapur Gaon, Savare, Thane, Maharashtra - 421503.",Thane,Thane,Maharashtra,9321773955,sujal9612@gmail.com,29-10-2004,21,12th,Tally With Gst 
+503,503,Pratik Nagesh Gaikwad,Nagesh Gaikwad,Male,SC,7315 6172 1905,"Bhoisavare, Badlapur Gaon, Savare, Thane, Maharashtra - 421503.",Thane,Thane,Maharashtra,9145773227,pratikgaikwad3108@gmail.com,26-05-2002,23,12th,Tally With Gst 
+504,504,Shruti Sameer Sathe,Sameer Sathe,Female,SC,3750 2833 8571,"06,Triratna Apt,,Manjarli Road, Near Soham Hospital, Badlapur (W), Thane, Maharashtra - 421503.",Thane,Thane,Maharashtra,9673773659,shrutisathe2328@gmail.com,23-02-2006,19,12th,Tally With Gst 
+505,505,Arti Shridhar Shinde,Shridhar Shinde,Female,SC,6471 7033 0617,"B- Wing 603, Tmc Building Baba Saheb Ambedkar, Gaymukh, Thane, Kasarvadavali, Thane, Maharashtra- 400615.",Thane,Thane,Maharashtra,9867234709,rt.shri17s@gmail.com,17-03-1991,34,12th,Tally With Gst 
+506,506,Sonali Siddharth Sawant,Siddharth Sawant,Female,SC,4838 6303 1635,"Room No.404, Sai Dham Apt. Ganesh Nagar, Swami Samarth Chwok, Badlapur, Kulgaon, Thane, Maharashtra - 421503.",Thane,Thane,Maharashtra,9221813029,sonasawant2598@gmail.com,25-10-1998,27,12th,Tally With Gst 
+507,507,Hemakshi Sunil Shirsat,Sunil Shirsat,Female,SC,6958 9713 8116,"Room No.02,E Wing, Manav Park,Church Road,Rameshwadi, Badlapur W, Thane, Maharashtra - 421503.",Thane,Thane,Maharashtra,9022476314,hemakshi.s.shirsat15@gmail.com,15-07-2007,18,12th,Tally With Gst 
+508,508,Swapnali Siddharth Sawant,Siddharth Sawant,Female,SC,5753 0619 3961,"Room No.404, Sai Dham Apt. Ganesh Nagar, Swami Samarth Chwok, Badlapur, Kulgaon, Thane, Maharashtra - 421503.",Thane,Thane,Maharashtra,8097379906,swapnalis2691@gmail.com,26-09-1991,34,12th,Tally With Gst 
+509,509,Ajit Bramhadev Kate,Bramhadev Kate,Male,SC,3008 8575 2931,"B- 101, Guru Sai Apt. Ambernath - Badlapur Road, Belavali Gaon, Badlapur, Thane, Maharashtra - 421503.",Thane,Thane,Maharashtra,8483008791,kateajit9@gmail.com,19-06-1991,34,12th,Tally With Gst 
+510,510,Priyanka Narayan Wankhede,Narayan Wankhede,Female,SC,5732 3089 2836,"D- 301, Om Sawai Niketan, Yadav Nagar, Near Konark Gardan, Shirgaon, Badlapur East, Kulgaon, Thane, Maharashtra - 421503. ",Thane,Thane,Maharashtra,7020151305,piyushpihoo.1501@gmail.com,20-01-1995,30,10th,Tally With Gst 
+511,511,Ravindra Abhiman Bansode,Abhiman Bansode,Male,SC,5321 1677 8022,"Flat No.201, Floor  Shree Shulpani Apt. Nr Chintamani Mandir Hendrepada, Badlapur (W), Thane, Maharashtra - 421503.",Thane,Thane,Maharashtra,9967275691,aarambhsociety99@gmail.com,04-03-1992,33,10th,Tally With Gst 
+512,512,Harsh Sunil Shirsat,Sunil Shirsat,Male,SC,9141 2133 2794,"E1/G-2, Manav Park Chs Ltd. Church Road, Rameshwadi Badlapur West, Thane, Maharashtra- 421503.",Thane,Thane,Maharashtra,7875372153,harsh.s.shirsat601@gmail.com,25-11-2002,23,12th,Tally With Gst 
+513,513,Priya Vivek Pawar,Vivek Pawar,Female,SC,6319 4940 5394,"02, Rajanigandha Chs, Ambernath Road, Pawar Complex Manjarli, Belavli, Badlapur West, Thane, Maharashtra - 421503.",Thane,Thane,Maharashtra,9370265879,priyavp2828@gmail.com,09-08-2006,19,12th,Tally With Gst 
+514,514,Ankit Mahendra Khedekar,Mahendra Khedekar,Male,SC,3320 2875 2625," Flat No. 303, Building No. 08, Mohan Green Woods, Mhatre Rd. Manjarli, Bdl.(W), Thane, Maharashtra - 421503.",Thane,Thane,Maharashtra,9764089308,ankitkhedekar2000@gmail.com ,30-04-2000,25,10th,Tally With Gst 
+515,515,Jayashri Harshal Pagare,Harshal Pagare,Female,SC,6054 4014 4515,"Gurubhakti Apt, Room No. 8, Agaskar Tekadi, Nr.Adarsh School,Bdl.(E), Thane, Maharashtra - 421503.",Thane,Thane,Maharashtra,8010075325,pagarejayashri27@gmail.com ,27-11-1996,29,Graduate,Tally With Gst 
+516,516,Vandana Dipak Sapkale,Dipak Sapkale,Female,SC,4923 2249 8487,"Flat No. 201, G -Wing, Metro Residency, Bdl.(W), Thane, Maharashtra - 421503.",Thane,Thane,Maharashtra,7507161074,vandanadipak1411@gmail.com,11-07-1988,37,12th,Tally With Gst 
+517,517,Chaitali Somnath Shinde,Somnath Shinde,Female,SC,7579 5598 5829,"Bandhivali, Narivali, Murbad, Thane, Maharashtra - 421401.",Thane,Thane,Maharashtra,7507779403,chaitalishinde29@gmail.com,29-10-1996,29,10th,Tally With Gst 
+518,518,Shravani Sandeep Mane,Sandeep Mane,Female,SC,6368 3300 2501,"Flat No. 401, Shubh Arambh Apt. Belavali, Bdl.(W), Kulgaon, Thane, Maharashtra - 421503.",Thane,Thane,Maharashtra,7977700361,shravnimane10@gmail.com,17-08-2007,19,10th,Tally With Gst 
+519,519,Priyanka Pandit Ahire,Pandit Ahire,Female,SC,9521 0312 5369,"Manjarli Road, 319, Chawl Shelke Clinic Op. Mohanand Nagar, Bdl(W), Ambernath, Thane, Maharashtra- 421503.",Thane,Thane,Maharashtra,8329314184,priyanka ahire05@gmail.com,05-01-1991,34,12th,Tally With Gst 
+520,520,Ranjana Arun Khare,Arun Khare,Female,SC,2914 5059 9673,"A/4, 104, Manav Park, Rmeshwadi Church Road, Nr. Don Bosco School, Bdl.(W), Thane, Maharashtra - 421503.",Thane,Thane,Maharashtra,9975704086,ranjanakhare1982@gmail.com,10-05-1982,43,12th,Tally With Gst 
+521,521,Pooja Mahesh Gangawane,Mahesh Gangawane,Female,SC,4820 1739 8363,"Flat No. 001, A1, Shyam Sundar Complex, Near Railway Gate, Belavali, Badlapur, Thane, Maharashtra - 421503.",Thane,Thane,Maharashtra,8805630497,poojagangawane1992@gmail.com,07-06-1992,33,10th,Tally With Gst 
+522,522,Samruddhi Gautam Naiknaware,Gautam Naiknaware,Female,SC,4829 8159 8461,"103/B Chandresh Oasis, Asaraam, Lodha Heaven,Shirgaon, Bdl.(E), Thane, Maharashtra - 421503.",Thane,Thane,Maharashtra,9604474536,samruddhinaiknaware17@gmail.com,17-12-2003,22,Graduate,Tally With Gst 
+523,523,Kavita Sadanand Waghmare,Sadanand Waghmare,Female,SC,7717 9193 2946,"Room No. 620, Katkari Pada, Behind Rabale Police Station, Panchashil Nagar, Rabale, Navi Mumbai, Thane, Maharashtra - 400708.",Thane,Thane,Maharashtra,9987473566,kavitaswaghmare1984@gmail.com,15-12-1984,29,12th,Tally With Gst 
+524,524,Praful Sanjay Nagare,Sanjay Nagare,Male,SC,5282 0564 7783,"Room No. 11, Bhagirathi Plaza, Kalyan Badlapur Road, Opp. Green Park Society, Belavali Gaon, Badlapur West, Thane, Maharashtra - 421503.",Thane,Thane,Maharashtra,8850045226,prafulnagare19@gmail.com,19-10-1996,29,10th,Tally With Gst 
+525,525,Dipali Sanjay Nagare,Sanjay Nagare,Female,SC,9921 6323 8557,"Room No. 11, Bhagirathi Plaza, Kalyan Badlapur Road, Opp. Green Park Society, Belavali Gaon, Badlapur West, Thane, Maharashtra - 421503.",Thane,Thane,Maharashtra,8655539021,dipalinagare2000@gmail.com,14-01-2000,25,Graduate,Tally With Gst 
+526,526,Neeta Sagar Shinde,Sagar Shinde,Female,SC,3865 8432 4510,"Flat No.102, E Wing, Mukta Heights, Deepali Park Road, Valivali Gaon, Badlapur West, Near Shashwat Park, Badlapur, Kulgaon, Thane, Maharashtra - 421503.",Thane,Thane,Maharashtra,9967805834,neetashinde25@gmail.com,25-07-1991,34,10th,Tally With Gst 
+527,527,Nayansi Shrike,Sudhir,Female,SC,9801 2976 1205,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,8408892324,nayansisudhir@gmail.com,02-02-2006,19,12th,Jewellery
+528,528,Surekha Jadhav ,Sudam,Female,SC,2123 9284 6860,Thane Maharashtra,Bhiwandi,Thane,Maharashtra,N/A,surekhajadhav@gmail.com,04-06-1989,36,10th,Jewellery
+529,529,Prerana Shrike ,Pamduranga,Female,SC,7849 2176 2284,Thane Maharashtra,Bhiwandi,Thane,Maharashtra,8999809222,preranashrike@gmail.com,29-03-2003,22,12th,Jewellery
+530,530,Komal More ,Gulshan,Female,SC,7717 4029 8381,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,7057794371,komalmore@gmail.com,23-12-2002,22,12th,Jewellery
+531,531,Namrata Tambe,Suchit ,Female,SC,4073 0051 1198,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,8975184039,namratatambe@gmail.com,30-01-1991,33,12th,Jewellery
+532,532,Poonam Mane,Mahavir,Female,SC,4148 9132 8802,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,8999916366,poonammane@gmail.com,04-08-1993,32,12th,Jewellery
+533,533,Megha More,Nitin,Female,SC,4805 2506 1945,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,8551989023,meghamore@gmail.com,30-03-1987,38,10th,Jewellery
+534,534,Prachi Lokare ,Pundalik,Female,SC,5628 9622 9696,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,9158845350,prachilokare@gmail.com,08-11-2002,22,12th,Jewellery
+535,535,Poonam Kamble,Sachin,Female,SC,4217 5300 9446,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,7498124941,poonamkamble@gmail.com,01-08-1987,38,10th,Jewellery
+536,536,Shruti Salve,Sanjay,Female,SC,8075 9566 7376,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,7776840233,shrutisalve@gmail.com,30-09-2006,19,12th,Jewellery
+537,537,Rupali Salvi,Sachin,Female,SC,4083 1679 4227,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,9923499644,rupalisalvi@gmail.com,27-07-1988,37,12th,Jewellery
+538,538,Jagruti Jadhav,Kailesh,Female,SC,5666 0803 9936,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,9011863293,jagrutijadhav@gmail.com,19-04-1990,32,12th,Jewellery
+539,539,Pratiksha Salvi,Ganesh,Female,SC,7570 8760 8763,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,8767412839,pratikshasalvi@gmail.com,28-02-2000,25,12th,Jewellery
+540,540,Varsha Jadhav,Ajay,Female,SC,2796 0085 5918,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,8308286261,varshajadhav@gmail.com,04-06-1992,33,12th,Jewellery
+541,541,Priya Waghmare,Shukracharya,Female,SC,5066 5104 3423,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,9022212273,priyajadhav@gmail.com,30-01-2000,24,12th,Jewellery
+542,542,Priti Gaikwad,Sudhakar,Female,SC,9447 0408 5453,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,8446921315,pritigaikwad@gmail.com,09-06-2001,24,12th,Jewellery
+543,543,Dipika Khambe,Nitin,Female,SC,3477 2966 8690,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,9768851414,dipikakhambe@gmail.com,15-02-1995,28,12th,Jewellery
+544,544,Shraddha Gaikwad,Vijay,Female,SC,7207 6247 7273,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,8010116186,sharddhagaikwad@gmail.com,30-07-2007,18,12th,Jewellery
+545,545,Yashswee Shelar,Yuvraj,Female,SC,8328 6659 3899,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,9702755620,yashsweeshelar@gmail.com,08-05-2005,20,12th,Jewellery
+546,546,Prachi Patekar,Sanjay,Female,SC,7327 4171 0173,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,9226256990,prachipatekar@gmail.com,14-12-1999,30,12th,Jewellery
+547,547,Nikita Tambe,Siddharth,Female,SC,4893 9015 1836,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,7218804509,nikitatambe@gmail.com,18-10-1992,32,12th,Jewellery
+548,548,Rupali Salvi,Sagar,Female,SC,8347 0431 3256,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,7507424994,rupalisalvi@gmail.com,04-02-1989,36,12th,Jewellery
+549,549,Swapnali Kambale,Mallikarjun,Female,SC,6953 7796 9401,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,7276241409,swapnalikamble@gmail.com,14-08-2005,21,12th,Jewellery
+550,550,Swapnali Gaikwad,Aniket,Female,SC,2369 5338 5403,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,9730232025,swapnaligaikwad@gmail.com,29-03-1998,27,12th,Jewellery
+551,551,Supriya Pawar,Sachin,Female,SC,3871 6840 6188,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,9765973062,supriyapawar@gmail.com,30-05-1998,26,12th,Jewellery
+552,552,Sonali Kalambe ,Janardan,Female,SC,5452 6092 1943,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,8530989984,sonalikalambe@gmail.com,02-07-1993,33,12th,Jewellery
+553,553,Swapnali Dhotre,Dilip,Female,SC,7645 9789 8857,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,7620323057,swapanalidhotre@gmail.com,06-10-1990,36,12th,Jewellery
+554,554,Manisha More,Janardan,Female,SC,7282 6854 7874,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,9209964370,manishamore@gmail.coom,06-12-1976,44,Graduate,Jewellery
+555,555,Sakshi Wagmare,Shukracharya,Female,SC,5935 8492 6625,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,80100369220,sakshiwagmare@gmail.com,27-11-2003,22,12th,Jewellery
+556,556,Sangeeta Tambe,Devidas,Female,SC,4391 8767 2580,Bhiwandi Thane,Bhiwandi,Thane,Maharashtra,9975426913,sangeetatambe@gmail.com,01-06-1979,45,Graduate,Jewellery
+557,557,Monika Gaykvad ,Aashok,Female,SC ,7970 7019 409,Khopivali,Thane,Thane,Maharashtra,8010991984,monika@gamail.com,21-01-2002,24,12th,Tailoring
+558,558,Bhavna Shendr,Gangadhar,Female,SC,8351 3947 1449,Murbad,Thane,Thane,Maharashtra,8459465236,bhavnashende@gamail.com,19-12-1995,30,12th,Tailoring
+559,559,Ankita Bhawar,Bhima,Female,SC,8806 9908 2582,Devpe,Thane,Thane,Maharashtra,9326285826,ankitabhawar@gmail.com,26-05-1999,26,12th,Tailoring
+560,560,Sharvni Bhalerao ,Sanjay,Female,SC,4365 8386 1050,Vidhe,Thane,Thane,Maharashtra,922605130,sravani@gamail.com,18-05-2006,19,12th,Tailoring
+561,561,Rohini Gaykar,Anil,Female,SC,8741 3134 5589,Rohidasvada,Thane,Thane,Maharashtra,7720082334,rohinig@mail.com,20-06-1985,40,12th,Tailoring
+562,562,Megha Gaykar,Harish,Female,SC,6553 3286 4746,Tondlikar Nagar,Thane,Thane,Maharashtra,721937598,meghahatish@gamail.com,06-01-1989,37,12th,Tailoring
+563,563,Aiswarya Jadhav,Avinash ,Female,SC,N/A,Murbad,Thane,Thane,Maharashtra,8468808626,aishwarya@gamail.com,20-05-1999,26,12th,Tailoring
+564,564,Neha Jadhav,Shivram,Female,SC,6847 2765 8655,Rohidasvada ,Thane,Thane,Maharashtra,7620186404,jadhavneha@gamail.com,04-02-2002,24,12th,Tailoring
+565,565,Priyanka Gaykwad ,Ashok,Female,SC,6323 5527 4004,Khopivali,Thane,Thane,Maharashtra,9579011232,priyankagaikwad@gmail.com,07-09-2006,19,12th,Tailoring
+566,566,Bharati Rokde,Ramcandar,Female,SC,6552 2792 6062,Sonatpada,Thane,Thane,Maharashtra,9527841088,rokdebharati@gamail.com,22-06-1994,31,12th,Tailoring
+567,567,Yogita Jadjav,Ganesh,Female,SC,4911 2226 2236,Rohidasvada ,Thane,Thane,Maharashtra,9260115253,jadhavyogita@gamail.com,11-12-1999,26,12th,Tailoring
+568,568,Divya Malve,Shivaji,Female,SC,8054 4884 1124,Kudavli,Thane,Thane,Maharashtra,8104793775,malvedivya@gamail.com,25-05-2000,25,12th,Tailoring
+569,569,Jaysree Canne,Sunil,Female,SC,3671 8419 9230,Devgav,Thane,Thane,Maharashtra,9137883082,channejaysree@gamail.com,16-12-2001,24,12th,Tailoring
+570,570,Prandnya Ahirr,Sharad,Female,SC,6743 6514 7674,Devpe,Thane,Thane,Maharashtra,9373385522,ahirepradnya@gamail.com,14-11-2003,22,12th,Tailoring
+571,571,Kalpana Shende,Akash,Female,SC,9714 3296 2709,Kharbevadi,Thane,Thane,Maharashtra,7219621751,kalpnashenslde@gamail.com,18-12-1994,31,12th,Tailoring
+572,572,Sapana Bansode,Laxman ,Female,SC,3796 5946 8188,Patgav,Thane,Thane,Maharashtra,7038557738,sapnabansode@gamial.com,01-08-2004,21,10th,Tailoring
+573,573,Sonali Dhangar,Vilas,Female,SC,3138 4861 2799,Aambele,Thane,Thane,Maharashtra,9922379015,sonalidhangar@gmail.com,26-05-2006,19,12th,Tailoring
+574,574,Rani Waghcude,Vinod,Female,SC,4860 6941 9617,Bhisol,Thane,Thane,Maharashtra,8356079693,waghcuderani@gmail.com,27-11-1996,29,12th,Tailoring
+575,575,Kunda Gayikar,Kaluram,Female,SC,N/A,Khandare,Thane,Thane,Maharashtra,8975791184,gaikarkunda@gmail.com,19-10-1989,36,12th,Tailoring
+576,576,Diksha Bansodr,Lakshman ,Female,SC,6292 8413 7073,Pathav,Thane,Thane,Maharashtra,8080966028,dikshagaikwad@gmail.com,09-09-2004,21,12th,Tailoring
+577,577,Siddhika Malve,Balkurshn,Female,SC,2042 9278 8144,Kudavli,Thane,Thane,Maharashtra,8850605570,malveshiddika@gmail.com,15-07-2006,19,12th,Tailoring
+578,578,Sakshi Dhaganar,Suresh,Female,SC,9188 0021 6550,Gavali,Thane,Thane,Maharashtra,7972377097,dhangarsakshi@gmail.com,15-11-2005,20,12th,Tailoring
+579,579,Shushma Malave,Baliram ,Female,SC,8788 9832 5313,Kudavli,Thane,Thane,Maharashtra,9699259872,malveshushma@gmail.com,06-07-1989,36,12th,Tailoring
+580,580,Darshna Chavhan ,Janardhan ,Female,SC,2383 3187 7156,Dhasai,Thane,Thane,Maharashtra,7517027103,chavahandarshna@gmail.com,11-07-2000,25,10th,Tailoring
+581,581,Anita Chavhan ,Rajaram,Female,SC,2835 9488 1242,Dhasai,Thane,Thane,Maharashtra,72633847054,chavananita@gmail.com,12-10-1990,35,10th,Tailoring
+582,582,Ankita Kadam,Ananta,Female,SC,2496 3948 2357,Dhasai,Thane,Thane,Maharashtra,7888224043,ankitakadam@gmail.com,03-01-2001,25,12th,Tailoring
+583,583,Aarti Salve,Jagdhish,Female,SC,3318 7796 6788,Khopivali,Thane,Thane,Maharashtra,9209851134,aaratisalve@gmail.com,06-01-1986,40,8th,Tailoring
+584,584,Guri Gaykar,Shantaram,Female,SC,4478 2362 8921,Rohidasvada ,Thane,Thane,Maharashtra,8975347470,gurigaikar@gmail.com,06-01-1980,46,8th,Tailoring
+585,585,Surekha Gore,Sanjay,Female,SC,N/A,Devpe,Thane,Thane,Maharashtra,8975347470,goresurekha@.com,05-04-1984,41,10th,Tailoring
+586,586,Priya Nitin Khandagal3,Sasane,Female,SC,2621 5695 6551,N/A,Thane,Thane,Maharashtra,8975799504,khandaglepriya@gmail.com,12-10-1996,29,12th,Tailoring
+587,587,Shital Akash More,Akash More,Female ,SC ,2763 8801 7200,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,8407972755,shital@96gmail.com,31-05-1996,30,12th,Basic Tailoring 
+588,588,Kiran Abhishek Jadhav,Abhishek Jadhav ,Female ,SC ,6718 0296 0273,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,9702631525,kiranjadhav@gmail.com,N/A,30,12th,Basic Tailoring 
+589,589,Kajal Manoj Rokade,Manoj Rokade,Female ,SC ,8767 5720 5282,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,8830092353,kajalrokade@gmail.com,24-03-2001,24,12th,Basic Tailoring 
+590,590,Ranjana Dipak Rokade,Dipak Rokade,Female ,SC ,6975 1549 4726,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,7420879747,ranjanarokade@gmail.com,18-02-1992,33,10th,Basic Tailoring 
+591,591,Anita Rahul Rokade,Rahul Rokade ,Female ,SC ,4140 0183 2995,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,9021531404,anitarokade@gmail.con,01-07-1999,26,12th,Basic Tailoring 
+592,592,Suvarna Sushil Rokade,Sushil Rokade ,Female ,SC ,8199 9954 2348,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,8669022056,suvarnarokade@gmail.com,15-07-1984,40,10th,Basic Tailoring 
+593,593,Swati Sachin Rokade,Sachin Rokade ,Female ,SC ,7831 3275 7431,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,swatirokade@gmail.com,26-07-1994,31,12th,Basic Tailoring 
+594,594,Ranjana Umesh Rokade,Umesh Rokade,Female ,SC ,7126 2517 9531,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,ranjanarokade91@gmail.com,01-06-1991,35,10th,Basic Tailoring 
+595,595,Manisha Sachin Donde,Sachin Donde,Female ,SC ,4037 6908 4895,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,manishadonde@gmail.com,20-02-1985,40,12th,Basic Tailoring 
+596,596,Karuna Mangesh Rokade,Mangesh Rokade,Female ,SC ,5378 4005 1115,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,karunarokade@gmail.com,04-08-1988,37,10th,Basic Tailoring 
+597,597,Varsha Vishal Rokade,Vishal Rokade ,Female ,SC ,2828 0349 7656,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,9561255159,varsharokade@gmail.com,17-11-1992,33,10th,Basic Tailoring 
+598,598,Manisha Atish Rokade,Atish Rokade,Female ,SC ,7130 6213 8291,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,9503822898,manisharokade@gmail.com,25-06-1985,40,12th,Basic Tailoring 
+599,599,Maya Sham Dhande,Sham Dhande,Female ,SC ,2923 3239 4794,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,8888355175,mayadhande@gmail.com,01-06-1982,42,10th,Basic Tailoring 
+600,600,Jyoti Mangesh Jagtap ,Mangesh Jagtap,Female ,SC ,6266 4678 8876,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,9960174439,jyotijagtap@gmail.com,14-01-1980,45,10th,Basic Tailoring 
+601,601,Shradha Mangesh Jagtap ,Mangesh Jagtap ,Female ,SC ,6554 4391 8158,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,9960174439,shradhajagtap@gmail.com,09-01-2002,23,12th,Basic Tailoring 
+602,602,Chhaya Bhikaji Kardak,Bhikaji Kardak ,Female ,SC ,7878 2546 8165,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,9356761197,chhayakardak@gmail.com,01-01-1980,45,8th,Basic Tailoring 
+603,603,Arti Vijay Salve,Vijay Salve,Female ,SC ,6559 5655 2352,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,9112742841,artisalve@gmail.com,01-01-1982,42,8th,Basic Tailoring 
+604,604,Archana Sagar More,Sagar More,Female ,SC ,7504 1860 1387,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,9324791461,archnamore@gmail.com,28-11-1994,31,12th,Basic Tailoring 
+605,605,Rasika Jayvant Rokade,Jayvant Rokade ,Female ,SC ,7448 0202 9853,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,7499713572,rasikarokade@gmail.com,25-08-2006,19,12th,Basic Tailoring 
+606,606,Rutika Kishor Rokade,Kishor Rokade ,Female ,SC ,3019 9349 3656,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,7666245986,rutikarokade@gmail.com,04-11-2001,24,12th,Basic Tailoring 
+607,607,Akshada Dnyaneshwar Rokade ,Dnyaneshwar Rokade ,Female ,SC ,4173 6267 5061,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,akshadarokde@gmail.com,11-10-2004,21,12th,Basic Tailoring 
+608,608,Savita Ganesh Rokade,Ganesh Rokade ,Female ,SC ,8142 3926 3011,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,9699985525,savitarokde@gmail.com,01-06-1991,35,Graduate,Basic Tailoring 
+609,609,Payal Dnyaneshwar Rokade ,Dnyaneshwar Rokade ,Female ,SC ,8457 4293 7524,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,9322292918,payalrokde@gmail.com,15-03-2002,23,10th,Basic Tailoring 
+610,610,Vaishali Suresh Rokade,Suresh Rokade ,Female ,SC ,5984 1026 6996,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,8087183173,vaishalirokde@gmail.com,13-09-1990,35,10th,Basic Tailoring 
+611,611,Sakshi Suresh Rokade ,Suresh Rokade ,Female ,SC ,9757 9028 5794,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,8087183173,sakshirokde@gmail.com,01-07-2007,18,12th,Basic Tailoring 
+612,612,Vidya Kishor Rokade ,Kishor Rokade ,Female ,SC ,4597 8705 3816,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,7666245986,vidyarokade@gmail.com,20-06-2007,18,12th,Basic Tailoring 
+613,613,Swapnali Harichanda Rokade,Harichanda Rokade ,Female ,SC ,6015 7959 9756,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,7517075791,swapnalirokade@gmail.com,11-06-1994,32,12th,Basic Tailoring 
+614,614,Shila Jayvant Rokade ,Jayvant Rokade ,Female ,SC ,3599 0661 0393,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,7499713572,shilarokade@gmail.com,24-10-1985,45,10th,Basic Tailoring 
+615,615,Suresh Devram Kadam,Devram Kadam,Female ,SC ,9432 0285 1066,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,8459309784,surekhakadam@gmail.com,13-09-1997,27,10th,Basic Tailoring 
+616,616,Chhaya Eknath Gaikwad ,Eknath Gaikwad ,Female ,SC ,4792 5056 4926,At Khambhale Ta Igatpuri ,Khambhale,Thane,Maharashtra,8459309784,chhayagaikwad@gmail.com,17-02-1992,29,10th,Basic Tailoring 
+617,617,Archna Sandip Madhe,Sandip Madhe ,Female ,ST,9025 9164 7071,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,01-01-2002,23,12th,Tailoring 
+618,618,Manisha Ashok Jakhere ,Ashok Jakhere ,Female ,ST,8547 9410 1533,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,18-05-1996,30,10th,Tailoring 
+619,619,Dipali Ramdas Bangar,Ramdas Bangar ,Female ,ST,4166 3560 1354,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,25-10-2005,20,12th,Tailoring 
+620,620,Priyanka Ramdas Bangar ,Ramdas Bangar ,Female ,ST,4857 3339 4145,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,04-10-2007,18,12th,Tailoring 
+621,621,Jayashri Sunil Bharti,Sunil Bharti ,Female ,ST,6631 1103 4776,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,01-07-1992,33,12th,Tailoring 
+622,622,Sarika Popat Dahale,Popat Dahale ,Female ,ST,4077 7751 9387,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,27-06-1996,30,10th,Tailoring 
+623,623,Madhuri Prakash Bhoir ,Prakash Bhoir ,Female ,ST,6849 2975 8254,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,18-04-2007,18,10th,Tailoring 
+624,624,Manisha Raju Rere,Raju Rere ,Female ,ST,6240 4912 1605,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,18-10-2006,19,10th,Tailoring 
+625,625,Kalpana Machhindra Bharti,Machhindra Bharti ,Female ,ST,2033 2325 6984,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,14-06-1993,32,12th,Tailoring 
+626,626,Ratna Pandurang Dahale ,Pandurang Dahale ,Female ,ST,5082 8620 8903,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,12-06-1991,34,12th,Tailoring 
+627,627,Ankita Dashrath Umbare,Dashrath Umbare ,Female ,ST,2909 3561 8034,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,25-11-2005,20,10th,Tailoring 
+628,628,Jayashri Chandrakant Pedhekar,Chandrakant Pedhekar ,Female ,ST,6255 3652 4229,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,01-01-1995,30,10th,Tailoring 
+629,629,Kavita Suresh Mange,Suresh Mange,Female ,ST,7883 0517 9782,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,26-01-2001,24,10th,Tailoring 
+630,630,Rupali Jaitu Thetale,Jaitu Thetale ,Female ,ST,9153 6219 6566,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,15-04-2002,23,12th,Tailoring 
+631,631,Jayashri Shrawan Dahale ,Shrawan Dahale ,Female ,ST,4406 7512 3684,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,06-11-1997,29,12th,Tailoring 
+632,632,Vanita Dinakar Madhe ,Dinkar Madhe,Female ,ST,6118 9790 5655,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,15-01-1994,31,12th,Tailoring 
+633,633,Sunita Ramdas Jakhere ,Ramdas Jakhere ,Female ,ST,8130 9952 7223,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,29-07-2002,23,12th,Tailoring 
+634,634,Renuka Govind Bhangare ,Govind Bhangare ,Female ,ST,8029 4996 4855,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,28-08-1993,32,10th,Tailoring 
+635,635,Parvatabai Dilip Madhe,Dilip Madhe,Female ,ST,5683 6797 0008,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,25-05-1990,35,8th,Tailoring 
+636,636,Vanita Ganesh Lote,Ganesh Lote ,Female ,ST,4610 8140 8256,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,15-11-2004,21,10th,Tailoring 
+637,637,Vaishali Rahul Lote,Rahul Lote,Female ,ST,7125 1035 6705,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,11-04-2003,22,10th,Tailoring 
+638,638,Dwarka Kailas Shid ,Kailas Shid,Female ,ST,2120 1604 8981,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,10-03-1992,33,10th,Tailoring 
+639,639,Usha Vishal Khade,Vishal Khade ,Female ,ST,2962 8506 6498,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,25-10-1996,30,10th,Tailoring 
+640,640,Savita Harichanda Madhe,Harichanda Madhe ,Female ,ST,9245 5966 3501,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,07-12-2006,19,10th,Tailoring 
+641,641,Durga Bhima Aghan,Bhima Aghan ,Female ,ST,9084 5901 0643,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,28-03-2002,23,10th,Tailoring 
+642,642,Sunanda Mukund Warghade ,Mukund Warghade ,Female ,ST,6903 1617 9574,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,15-07-1992,33,10th,Tailoring 
+643,643,Madhuri Yogesh Jadhav,Yogesh Jadhav ,Female ,ST,3537 1699 6282,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,08-02-1995,30,12th,Tailoring 
+644,644,Mathura Rajesh Lahamate,Rajesh Lahamate ,Female ,ST,3876 8265 6110,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,17-06-1999,26,10th,Tailoring 
+645,645,Vandana Savaliram Warghade ,Savaliram Warghade ,Female ,ST,6893 4746 2810,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,27-01-1999,26,12th,Tailoring 
+646,646,Archana Ankush Madhe,Ankush Madhe,Female ,ST,8940 8760 4771,At Khambhale Wadi Ta Igatpuri ,Khambhale,Thane,Maharashtra,N/A,N/A,26-11-1999,26,12th,Tailoring 
+647,647,Sahil Jaywant Shewale,Jaywant,Male,SC,9093 3638 4196,Shiroshi,Thane,Thane,Maharashtra,7517694893,shewalesahal0@gmail.com,02-09-2002,23,12th,Typing
+648,648,Shraddha Kishor Channe,Kishor,Female,SC,4639 8719 1914,Gegaon,Thane,Thane,Maharashtra,7666744592,kishorchhane@gmailcom,03-03-2003,22,12th,Typing
+649,649,Siddharth Tanaji Desale,Tanaji,Male,SC,5855 6878 9846,Maniwali,Thane,Thane,Maharashtra,7438086638,siddharth@gmail.com,30-11-1998,27,12th,Typing
+650,650,Aakansha Aakash Desale,Aakash,Female,SC,3781 6723 0698,Maniwali,Thane,Thane,Maharashtra,8080637342,aakanshadesale@gmail.com,04-09-1998,27,12th,Typing
+651,651,Prasad Vishwas Channe,Vishwas,Male,SC,7381 1498 3586,Gegaon,Thane,Thane,Maharashtra,8805234983,prasadchanne31@gmail.com,02-07-2001,24,12th,Typing
+652,652,Rutik Tanaji Desale,Tanaji,Male,SC,9559 3176 1087,Maniwali,Thane,Thane,Maharashtra,9594136735,desalerutik@yahoo.com,30-11-2000,25,12th,Typing
+653,653,Somanath Kantaram Desale,Kantaram,Male,SC,2521 8301 3412,Maniwali,Thane,Thane,Maharashtra,8856891371,somsnsthdesale@gmail.com,10-11-2004,21,12th,Typing
+654,654,Subhash Dinesh Pawar,Dinesh,Male,SC,8589 5562 8005,Pendri,Thane,Thane,Maharashtra,9370382527,subhashp222@gmail.com,09-12-2000,25,12th,Typing
+655,655,Saurav Tukaram Desale,Tukaram,Male,SC,7977 7437 8730,Maniwali,Thane,Thane,Maharashtra,7350885539,sauravdesale@gmaail.com,24-08-2005,20,12th,Typing
+656,656,Jitendra Kantilal Thorat,Kantilal,Male,SC,6943 8549 3380,Maniwali,Thane,Thane,Maharashtra,9325930221,jituthorat@gmail.com,09-12-2001,24,12th,Typing
+657,657,Sarika Dipak Ghandhav,Dipak,Female,SC,9802 6758 5880,Maniwali,Thane,Thane,Maharashtra,8999220667,sarikaghandhav@gmail.com,07-02-2003,22,12th,Typing
+658,658,Kajal Dinesh Pawar,Dinesh,Female,SC,3554 6469 4151,Talegaon,Thane,Thane,Maharashtra,9359238924,kajalghandhav@gmail.com,28-09-2001,24,12th,Typing
+659,659,Suraj Dipak Ghandhav,Dipak,Male,SC,4436 9585 5605,Pendri,Thane,Thane,Maharashtra,8329008146,surajghandhav22@gmail.com,27-08-1996,29,12th,Typing
+660,660,Sahil Prakash More,Prakash,Male,SC,9635 5842 7366,Talegaon,Thane,Thane,Maharashtra,8329557691,sahilmore@gmail.com,17-08-2006,19,12th,Typing
+661,661,Swapnil Narayan Jadhav,Narayan,Male,SC,5819 0558 2367,Fangne,Thane,Thane,Maharashtra,7507743157,swapniljadhav@gmail.com,21-01-1990,36,12th,Typing
+662,662,Rutik Gautam More,Gautam,Male,SC,3715 4585 3347,Tokawde,Thane,Thane,Maharashtra,9356071130,princemore@gmail.com,30-07-2002,23,12th,Typing
+663,663,Sandesh Sudam Thorat,Sudam,Male,SC,8346 9442 0048,Talegaon,Thane,Thane,Maharashtra,9326451462,sandeshthorat@gmail.com,15-06-2006,19,12th,Typing
+664,664,Shubham Hari Thorat,Hari,Male,SC,6041 4909 3597,Vaishakhre,Thane,Thane,Maharashtra,9272700717,shubhamthorat@gmail.com,19-07-1994,31,12th,Typing
+665,665,Rushant Gulab Ubale,Gulab,Male,SC,8476 6768 8526,Chasole,Thane,Thane,Maharashtra,7498643692,rushantubale@gmail.com,24-05-2006,19,12th,Typing
+666,666,Ganesh Daulat Gaikwad,Daulat,Male,SC,7041 4245 8314,Chasole,Thane,Thane,Maharashtra,9137510343,ganeshgaikwad@gmail.com,02-08-1996,29,12th,Typing
+667,667,Manoj Mukund Tapase,Mukund,Male,SC,6499 0427 3821,Umroli,Thane,Thane,Maharashtra,9370207062,manojtapase201@gmail.com,24-03-1992,33,12th,Typing
+668,668,Mukesh Bhau Tapase,Bhau,Male,SC,5484 8139 0665,Eklhre,Thane,Thane,Maharashtra,7972456405,mukesahtapase@gmail.com,27-08-2002,23,12th,Typing
+669,669,Siddharth Gopinath Gaikwad,Gopinath,Male,SC,7435 1233 4964,Chasole,Thane,Thane,Maharashtra,9168723121,siddugaikwad@gmail.com,29-02-2000,25,12th,Typing
+670,670,Sandesh Kaluram Thorat,Kaluram,Female,SC,3078 8783 0402,Ambivali,Thane,Thane,Maharashtra,9022728286,sandeshthorat@gmail.com,31-03-1999,26,12th,Typing
+671,671,Sandesh Ramesh Gaikwad,Ramesh,Male,SC,4249 9953 9517,Ambela,Thane,Thane,Maharashtra,8767939787,sandeshgaikwad@gmail.com,22-12-2004,21,12th,Typing
+672,672,Siddharth Bajirao Malve,Bajirao,Female,SC,3854 2218 0224,Kudwali,Thane,Thane,Maharashtra,9579404244,siddharthmalve@gmail.cpom,06-07-1999,26,12th,Typing
+673,673,Chetan Ananta Badge,Ananta,Female,SC,9357 4783 6412,Maniwali,Thane,Thane,Maharashtra,8857063018,chetanbadge@gmail.com,01-06-1999,26,12th,Typing
+674,674,Prthmesh Dhanaji Bhalerao,Dhanaji,Male,SC,8451 1154 2257,Khapri,Thane,Thane,Maharashtra,9511261481,prtmeshbhalerao@gmail.com,18-02-2003,22,12th,Typing
+675,675,Kalpesh Dhanaji Bhalerao,Dhanaji,Male,SC,5127 3863 0438,Khapri,Thane,Thane,Maharashtra,9579592503,kalpeshbhalerao222@gmail.com,26-01-2001,25,12th,Typing
+676,676,Akshda Ramesh Gaikwad,Ramesh,Female,SC,9491 4949 9479,Khopiwli,Thane,Thane,Maharashtra,93222396144,akshdagaikwad209@gmail.com,16-10-2000,25,12th,Tailoring
+677,677,Pranali Vinayak Thorat,Vinayak,Female,SC,6308 9434 8096,Chasole,Thane,Thane,Maharashtra,7887716126,thoratpranali05@gmail.com,22-10-2004,21,12th,Tailoring
+678,678,Namrta Madhukar Thorat,Madhukar,Female,SC,6087 1988 3942,Chasole,Thane,Thane,Maharashtra,8411007021,namrtathorat08@gmail.com,05-10-2000,25,12th,Tailoring
+679,679,Priyanka Ashok Gaikwad,Ashok,Female,SC,6323 5527 4004,Khopiwli,Thane,Thane,Maharashtra,8010991984,ashokgaikwad15500@gmail.com,07-09-2006,19,12th,Tailoring
+680,680,Sakshi Ananta Bhalerao,Ananta,Female,SC,8003 1342 2488,Ambegaon,Thane,Thane,Maharashtra,9272633304,bhaleraosakshi78786543@gmail.com,28-03-2003,22,12th,Tailoring
+681,681,Kajal Ramesh Jadhav,Ramesh,Female,SC,5632 8058 9005,Nariwli,Thane,Thane,Maharashtra,8805347725,kj15394@gmail.com,08-03-2002,23,12th,Tailoring
+682,682,Archana Gautam More,Gautam,Female,SC,8569 1997 0556,Chasole,Thane,Thane,Maharashtra,9356071130,amore@gmail.com,11-06-1999,26,12th,Tailoring
+683,683,Dipika Kaluram Thorat,Kaluram,Female,SC,4725 1744 3678,Chasole,Thane,Thane,Maharashtra,9325736468,dipikathorat@gmail.com,10-06-2003,22,12th,Tailoring
+684,684,Shital Prakash More,Prakash,Female,SC,3412 5299 0015,Fangne,Thane,Thane,Maharashtra,9370175877,shitalmore@gmail.com,08-01-1986,40,12th,Tailoring
+685,685,Aasha Arun Pawar,Arun,Female,SC,8414 3664 3767,Sarlgaon,Thane,Thane,Maharashtra,7738531864,aashapawar@gmail.com,09-10-1995,30,12th,Tailoring
+686,686,Sangita Khandu Jadhav,Khandu,Female,SC,3489 5034 8223,Shiwechi Wadi,Thane,Thane,Maharashtra,8767893541,sangeetajadhav@gmail.com,08-11-1990,35,12th,Tailoring
+687,687,Vedika Vishal Desale,Vishal,Female,SC,5956 5499 6685,Manivali,Thane,Thane,Maharashtra,9146908314,vedikadesale@gmail.com,29-06-1997,28,12th,Tailoring
+688,688,Prdnya Siddharth Lokhande,Siddharth,Female,SC,8790 1079 7735,Khapri,Thane,Thane,Maharashtra,9209770242,prdnyalokhande2@gmail.com,27-03-2004,21,12th,Tailoring
+689,689,Sneha Laxman Bhalerao,Laxman,Female,SC,2117 5976 1797,Kishor,Thane,Thane,Maharashtra,82085550982,shnehubhalerao@gmail.com,05-03-2007,18,12th,Tailoring
+690,690,Pooja Bhushan Dhangar,Bhushan,Female,SC,3101 4055 4646,Wadawli,Thane,Thane,Maharashtra,9763426603,dhangarprdnya@gmail.com,30-05-1995,30,12th,Tailoring
+691,691,Priti Kuldip Kholambe,Kuldip,Female,SC,4412 1546 7897,Manivali,Thane,Thane,Maharashtra,9322806641,pritikholambe@gmail.com,22-10-1997,28,12th,Tailoring
+692,692,Sakshi Bhalerao Raut,Bhalerao,Female,SC,9884 7846 4051,Mal,Thane,Thane,Maharashtra,8329260344,sakshibhalerao@gmail.com,03-07-2005,20,12th,Tailoring
+693,693,Sahara Manohar Jadhav,Manohar,Female,SC,6248 6129 7632,Manivali,Thane,Thane,Maharashtra,8868562010,saharajadhav@gmail.com,22-12-2003,22,12th,Tailoring
+694,694,Ankita Jayram Patole,Jayram,Female,SC,4405 4657 0471,Umroli,Thane,Thane,Maharashtra,8999805592,asmitapatole@gmail.com,07-08-2005,20,12th,Tailoring
+695,695,Reshma Kisan Gaikwad,Kisan,Female,SC,5579 7854 3068,Ambele,Thane,Thane,Maharashtra,9373632998,gaikwadreshma@gmail.com,22-03-2006,19,12th,Tailoring
+696,696,Sushant Gulab Ubale,Gulab,Female,SC,6758 6628 8965,Khapri,Thane,Thane,Maharashtra,9579057231,sushantubale@gmail.com,25-01-2004,22,12th,Tailoring
+697,697,Avinash Tukaram Thorat,Tukaram,Male,SC,3139 2573 7605,Ambivali,Thane,Thane,Maharashtra,7620941599,thoratavi@gmail.com,26-06-1996,29,12th,Tailoring
+698,698,Akansha Ananta Patole,Ananta,Female,SC,2620 6000 4526,Balegaon,Thane,Thane,Maharashtra,8169102508,akanshapatole@gmail.com,26-03-2006,19,12th,Tailoring
+699,699,Gaurav Dhanaji Gaikwad,Dhanaji,Male,SC,7035 2600 8024,Alwe,Thane,Thane,Maharashtra,9834646867,thoratgauri@gmail.com,09-01-2006,20,12th,Tailoring
+700,700,Gauri Avinash Thorat,Avinash,Female,SC,6618 4286 5259,Umroli,Thane,Thane,Maharashtra,8830680142,gaurithorat@gmail.com,20-02-2000,25,12th,Tailoring
+701,701,Ashwini Vilas Soshte,Vilas,Female,SC,8202 0685 4917,Chasole,Thane,Thane,Maharashtra,9021928362,ashwinisoshte@gmail.com,24-08-1995,30,12th,Tailoring
+702,702,Diksha Raghunath Thorat,Raghunath,Female,SC,6428 6435 3763,Eklhre,Thane,Thane,Maharashtra,7774040853,thoratdiksha23@gmail.com,18-03-2004,21,12th,Tailoring
+703,703,Pratiksha Daulat Gaikwad,Daulat,Female,SC,4350 6789 6846,Chasole,Thane,Thane,Maharashtra,7972806137,gaikwadpratu@gmail.com,25-02-2002,23,12th,Tailoring
+704,704,Asmita Jayram Patole,Jayram,Female,SC,7968 5401 8515,Chasole,Thane,Thane,Maharashtra,8805449339,asmitapatole@gmail.com,14-09-2003,22,12th,Tailoring
+705,705,Aniket Kishor Bhoir,Kishor,Male,SC,3360 6445 5820,Umroli,Thane,Thane,Maharashtra,7038481376,bhoiraniket112@gmailcom,07-08-1999,26,12th,Tailoring
+706,706,Kunal Raghunath Mengal,Raghunath,Male,ST,3456 5664 3836,Dhsai,Thane,Thane,Maharashtra,8412939373,N/A,05-05-2003,22,12th,Tally
+707,707,Pradip Nathu Pardhi,Nathu,Male,ST,3212 1533 7764,Zadhghr,Thane,Thane,Maharashtra,9699244798,N/A,17-01-2001,25,12th,Tally
+708,708,Vanita Ramesh Kavate,Ramesh,Female,ST,7414 4177 1669,Dongrwadi,Thane,Thane,Maharashtra,9309778632,N/A,14-05-2005,20,12th,Tally
+709,709,Swpnali Swapnil Jadhav,Swapnil,Female,ST,4676 9099 7654,Tokawde,Thane,Thane,Maharashtra,7507743157,N/A,23-05-1990,35,12th,Tally
+710,710,Vishal Narayan Shid,Narayan,Male,ST,8180 9085 3084,Kochre,Thane,Thane,Maharashtra,8788725818,N/A,01-02-2006,20,12th,Tally
+711,711,Ramesh Jagan Kavate,Jagan,Male,ST,3051 0864 2414,Zadhghr,Thane,Thane,Maharashtra,8459400374,N/A,17-06-2006,19,12th,Tally
+712,712,Vishwas Dilip Nirguda,Dilip,Male,ST,3413 1832 6397,Kochre,Thane,Thane,Maharashtra,7744913165,N/A,05-09-2006,19,12th,Tally
+713,713,Sandip Dashrath Wagh,Dashrath,Male,ST,4998 2194 8006,Kochre,Thane,Thane,Maharashtra,9309467968,N/A,07-06-2007,18,12th,Tally
+714,714,Nikita Keshav Wagh,Keshav,Female,ST,6010 5088 0963,Kochre,Thane,Thane,Maharashtra,7620912937,N/A,20-03-2006,19,12th,Tally
+715,715,Madhukar Dhau Wagh,Dhau,Male,ST,5962 0207 0389,Shisewadi,Thane,Thane,Maharashtra,7499396347,N/A,23-03-1984,41,12th,Tally
+716,716,Girish Ramesh Khakar,Ramesh,Male,ST,5051 5462 1712,Shisewadi,Thane,Thane,Maharashtra,9699923489,N/A,16-02-2006,19,12th,Tally
+717,717,Rajesh Ramesh Khakar,Ramesh,Male,ST,8888 2217 7589,Shisewadi,Thane,Thane,Maharashtra,9309553457,N/A,06-08-2006,19,12th,Tally
+718,718,Tushar Vaman Pardhi,Vaman,Male,ST,6799 3186 4114,Talegaon,Thane,Thane,Maharashtra,8830582268,N/A,27-08-1999,26,12th,Tally
+719,719,Amol Vaman Khakar,Vaman,Male,ST,7191 9642 3996,Shirosiwadi,Thane,Thane,Maharashtra,8080623072,N/A,13-06-2002,23,12th,Tally
+720,720,Kavita Laxman Nirguda,Laxman,Female,ST,5802 7875 7825,Mal,Thane,Thane,Maharashtra,8010746678,N/A,20-04-2002,23,12th,Tally
+721,721,Pankaj Balu Shid,Balu,Male,ST,3038 6657 4492,Suklwadi,Thane,Thane,Maharashtra,9226502490,N/A,02-07-2006,19,12th,Tally
+722,722,Kanta Balu Shid,Balu,Female,ST,4496 6599 5962,Suklwadi,Thane,Thane,Maharashtra,8080560382,N/A,16-07-2004,21,12th,Tally
+723,723,Barku Alo Wagh,Alo,Male,ST,8459 3268 4483,Vaishakhre,Thane,Thane,Maharashtra,9273524857,N/A,08-02-1987,38,12th,Tally
+724,724,Vaibhav Vinayak Nirguda,Vinayak,Male,ST,5716 9770 9079,Kewarwadi,Thane,Thane,Maharashtra,8767315469,N/A,04-02-2004,22,12th,Tally
+725,725,Vaishali Govind Darwada,Govind,Female,ST,3734 0947 5744,Moroshi,Thane,Thane,Maharashtra,7620506265,N/A,07-12-2007,18,12th,Tally
+726,726,Mahesh Nathu Pardhi,Nathu,Male,ST,3866 1112 8120,Zadhghr,Thane,Thane,Maharashtra,8080524089,N/A,05-10-2006,19,12th,Tally
+727,727,Dashrath Balu Wagh,Balu,Male,ST,5604 1333 4801,Zadhghr,Thane,Thane,Maharashtra,9021171120,N/A,10-04-2004,21,12th,Tally
+728,728,Uchhala Mohan Mengal,Mohan,Female,ST,7006 5199 5196,Waghachiwadi,Thane,Thane,Maharashtra,8788891676,N/A,16-09-1995,30,12th,Tally
+729,729,Hira Suresh Wagh,Suresh,Female,ST,8318 2545 6588,Dhasai,Thane,Thane,Maharashtra,9529397820,N/A,03-09-1998,27,12th,Tally
+730,730,Surekha Akash Khodka,Akash,Female,ST,6925 2727 6631,Jambulwadi,Thane,Thane,Maharashtra,9529397820,N/A,04-03-2001,24,12th,Tally
+731,731,Shankar Maruti Hambir,Maruti,Male,ST,4988 8690 0176,Fangloshi,Thane,Thane,Maharashtra,9021162285,N/A,08-05-2002,23,12th,Tally
+732,732,Ajit Ananta Khodka,Ananta,Male,ST,3757 0573 5138,Fangloshi,Thane,Thane,Maharashtra,7499481332,N/A,07-04-2002,23,12th,Tally
+733,733,Vitthal Hari Nirguda,Hari,Male,ST,2474 5974 3150,Jambulwadi,Thane,Thane,Maharashtra,9699775807,N/A,03-07-2006,19,12th,Tally
+734,734,Pankaj Kaluram Thakre,Kaluram,Female,ST,3475 5346 9229,Not Applicable,Thane,Thane,Maharashtra,9921776421,N/A,05-08-2000,25,12th,Tally
+735,735,Dhanashree Ravindra Trimbakkar,Ravindra,Female,ST,9794 2950 9879,Sayale,Thane,Thane,Maharashtra,7666028857,N/A,05-12-2000,25,12th,Tally
+736,736,Kamal Pintu Shende,Pintu,Female,ST,3421 2031 6227,Bangrwadi,Thane,Thane,Maharashtra,9022872601,N/A,05-01-1990,36,12th,Aare Work
+737,737,Priyanka Khandu Jadhav,Khandu,Female,ST,2164 6594 5693,Shivachiwadi,Thane,Thane,Maharashtra,8767893541,N/A,03-07-2006,19,12th,Aare Work
+738,738,Jyostna Ragho Shid,Ragho,Female,ST,8330 8901 6587,Mal,Thane,Thane,Maharashtra,9359017557,N/A,01-08-2001,24,12th,Aare Work
+739,739,Nikita Arun Wagh,Arun,Female,ST,6010 5088 0963,Zadghr,Thane,Thane,Maharashtra,7821886069,N/A,20-03-2006,19,12th,Aare Work
+740,740,Vanita Ramesh Khvate,Ramesh,Female,ST,7414 4177 1669,Dongrwadi,Thane,Thane,Maharashtra,9321756354,N/A,08-07-2001,24,12th,Aare Work
+741,741,Priyanka Hanumant Wagh,Hanumant,Female,ST,6048 4317 6328,Koloshi,Thane,Thane,Maharashtra,9011672499,N/A,13-03-2006,19,12th,Aare Work
+742,742,Archana Hanumant Mengal,Hanumant,Female,ST,8965 4512 7894,Koloshi,Thane,Thane,Maharashtra,9359017557,N/A,02-05-2001,24,12th,Aare Work
+743,743,Kanta Balu Shid,Balu,Female,ST,4496 6599 5962,Suklwadi,Thane,Thane,Maharashtra,8080560382,N/A,16-07-2004,21,12th,Aare Work
+744,744,Kamal Jivan Dhupari,Jivan,Female,ST,9715 3254 4764,Mohawadi,Thane,Thane,Maharashtra,9529409737,N/A,21-03-1999,26,12th,Aare Work
+745,745,Nita Krushna Shid,Krushna,Female,ST,5696 7061 0017,Sukalwadi,Thane,Thane,Maharashtra,8767068474,N/A,16-05-2000,25,12th,Aare Work
+746,746,Vasanti Ragho Shid,Ragho,Female,ST,7574 3302 7062,Mal,Thane,Thane,Maharashtra,9322983571,N/A,05-03-2005,20,12th,Aare Work
+747,747,Kamal Mangal Khakar,Mangal,Female,ST,5852 6790 4341,Dongrwadi,Thane,Thane,Maharashtra,7620329998,N/A,26-04-2006,19,12th,Aare Work
+748,748,Sadhna Tukaram Aawali,Tukaram,Female,ST,2766 3853 1695,Mal,Thane,Thane,Maharashtra,8010746678,N/A,05-11-2004,21,12th,Aare Work
+749,749,Kavita Laxman Nirguda,Laxman,Female,ST,5802 7875 7825,Mal,Thane,Thane,Maharashtra,8017746678,N/A,20-04-2002,23,12th,Aare Work
+750,750,Pallvi Ashok Bhala,Ashok,Female,ST,5392 9546 3682,Sukalwadi,Thane,Thane,Maharashtra,8999078470,N/A,04-04-2006,19,12th,Aare Work
+751,751,Pooja Laxman Wagh,Laxman,Female,ST,2452 5392 8812,Shirpur,Thane,Thane,Maharashtra,7499563560,N/A,15-05-1996,29,12th,Aare Work
+752,752,Ranjana Dashrathh Khadke,Dashrathh,Female,ST,5227 9648 6182,Talegaon,Thane,Thane,Maharashtra,9021171120,N/A,25-04-2005,20,12th,Aare Work
+753,753,Pooja Nago Khakar,Nago,Female,ST,9223 7247 5777,Mal,Thane,Thane,Maharashtra,9921739308,N/A,07-09-1996,29,12th,Aare Work
+754,754,Vanita Ramesh Kavate,Ramesh,Female,ST,7414 4177 1669,Zadghar,Thane,Thane,Maharashtra,9272628158,N/A,14-05-2005,20,12th,Aare Work
+755,755,Sangita Khandu Jadhav,Khandu,Female,ST,3489 5034 8223,Shirochi Wadi,Thane,Thane,Maharashtra,8767893541,N/A,08-11-1990,35,12th,Aare Work
+756,756,Bharti Vasant Wagh,Vasant,Female,ST,8511 3963 6729,Palu,Thane,Thane,Maharashtra,9529563261,N/A,19-09-2006,19,12th,Aare Work
+757,757,Rekha Mahadu Nirguda,Mahadu,Female,ST,5747 2880 8453,Zadghar,Thane,Thane,Maharashtra,8975957954,N/A,03-05-2002,23,12th,Aare Work
+758,758,Yashoda Suresh Wqagh,Suresh,Female,ST,8253 1631 8043,Khutrwadi,Thane,Thane,Maharashtra,9529397820,N/A,04-12-2002,23,12th,Aare Work
+759,759,Surekha Akash Khodka,Akash,Female,ST,6925 2727 6631,Jambulwadi,Thane,Thane,Maharashtra,7499481332,N/A,04-03-2001,24,12th,Aare Work
+760,760,Poonam Nago Khakar,Nago,Female,ST,9223 7247 5777,Mal,Thane,Thane,Maharashtra,7875478565,N/A,07-09-1996,29,12th,Aare Work
+761,761,Dipali Mahendra Padir,Mahendra,Female,ST,5041 2937 7909,Kalmbad,Thane,Thane,Maharashtra,9021445877,N/A,15-04-2004,21,12th,Aare Work
+762,762,Kavita Namdev Wagh,Namdev,Female,ST,4320 9461 0078,Zadghr,Thane,Thane,Maharashtra,9834631809,N/A,28-11-2003,22,12th,Aare Work
+763,763,Dhanashree Kisan Raut,Kisan,Female,ST,2003 2880 0283,Chasole,Thane,Thane,Maharashtra,8010183986,N/A,18-03-2001,24,12th,Aare Work
+764,764,Reshma Madhukar Wagh,Madhukar,Female,ST,5398 5053 9093,Shisewadi,Thane,Thane,Maharashtra,7499396347,N/A,14-12-2008,17,12th,Aare Work

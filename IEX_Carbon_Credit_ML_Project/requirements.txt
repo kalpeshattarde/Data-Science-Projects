@@ -1,0 +1,64 @@
+# =========================================================
+# CORE APP (Frontend + API Layer)
+# =========================================================
+streamlit==1.42.2          # Interactive dashboard UI for ESG analytics
+fastapi==0.115.6           # High-performance backend API
+uvicorn[standard]==0.34.0  # ASGI server to run FastAPI
+requests==2.32.3           # API communication & external data calls
+pydantic==2.10.5           # Data validation & schema enforcement
+python-dotenv==1.0.1       # Environment variable management (.env)
+
+# =========================================================
+# DATA SCIENCE & MACHINE LEARNING
+# =========================================================
+numpy==1.26.4              # Numerical computation backbone
+scipy==1.12.0              # Scientific computing & optimization
+pandas==2.2.2              # Data manipulation & analysis
+scikit-learn==1.4.2        # ML pipelines & preprocessing
+joblib==1.4.2              # Model serialization
+xgboost==2.1.4             # Gradient boosting ML models
+
+# =========================================================
+# VISUALIZATION & EXPLAINABLE AI
+# =========================================================
+matplotlib==3.8.4          # Core plotting library
+seaborn==0.13.2            # Statistical visualization
+plotly==5.24.1             # Interactive dashboards
+shap==0.46.0               # Explainable AI (model interpretability)
+
+# =========================================================
+# DATABASE & DATA ENGINEERING
+# =========================================================
+sqlalchemy==2.0.38         # Database ORM & SQL engine
+pymysql==1.1.1             # MySQL driver (SQLAlchemy connection)
+mysql-connector-python==9.0.0  # Native MySQL connector (optional alt driver)
+
+# =========================================================
+# NOTEBOOK ENVIRONMENT
+# =========================================================
+notebook==7.2.2            # Classic Jupyter Notebook
+jupyterlab==4.2.5          # Advanced notebook interface
+ipykernel==6.29.5          # Python kernel support
+ipython==8.26.0            # Interactive Python shell
+jupyter-client==8.6.2      # Kernel communication
+
+# SQL Magic Support
+ipython-sql==0.5.0         # Enables %%sql inside notebooks
+prettytable==3.9.0         # Fix for ipython-sql table rendering bug
+
+# =========================================================
+# API & FILE HANDLING
+# =========================================================
+python-multipart==0.0.9    # File uploads via FastAPI
+
+# =========================================================
+# UTILITIES & DEV EXPERIENCE
+# =========================================================
+tqdm==4.67.1               # Progress bars for training/EDA
+rich==13.9.4               # Beautiful console logging/output
+
+# =========================================================
+# OPTIONAL (Recommended for MLOps Stability)
+# =========================================================
+pyyaml==6.0.2              # Config-driven pipelines
+loguru==0.7.2              # Advanced logging system
